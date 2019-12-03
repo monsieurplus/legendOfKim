@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class GameController : MonoBehaviour
 {
@@ -29,11 +30,11 @@ public class GameController : MonoBehaviour
     {
     }
 
-    public void ShowDialog(string name, string text, NpcController npc = null)
+    public void ShowDialog(string dialogConfig, UnityEvent dialogCallback = null)
     {
         player.controllable = false;
         player.SetTalking(true);
-        dialog.SetDialogConfig(name, text);
+        dialog.SetDialogConfig(dialogConfig, dialogCallback);
         dialog.Show();
     }
 

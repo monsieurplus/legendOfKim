@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 
 public class NpcController : MonoBehaviour
@@ -23,6 +24,7 @@ public class NpcController : MonoBehaviour
 
     [TextArea(2,10)]
     public string talkConfig;
+    public UnityEvent talkCallback;
 
     // Start is called before the first frame update
     void Start()
@@ -36,7 +38,7 @@ public class NpcController : MonoBehaviour
         {
             if (action == NpcAction.Talk && GetGame().dialog.IsAvailable())
             {
-                game.ShowDialog("Bobby", talkConfig, this);
+                game.ShowDialog(talkConfig, talkCallback);
             }
         }
     }

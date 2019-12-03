@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using TMPro;
 
 public class DialogItem
@@ -26,6 +27,8 @@ public class DialogController : MonoBehaviour
     private int dialogsLength = 0;
     private int currentDialog = 0;
 
+    private UnityEvent callback;
+
 
     private bool characterShowing = false;
     private int characterNumber = 0;
@@ -35,10 +38,6 @@ public class DialogController : MonoBehaviour
     private float nextLastTime;
     private bool nextVisible = false;
     public float nextBlinkDuration = 0.1f;
-
-
-    public float namePadding;
-    public float nameCharWidth;
 
     private bool spaceReleased = false;
 
@@ -101,10 +100,14 @@ public class DialogController : MonoBehaviour
         return isAvailable;
     }
 
-    public void SetDialogConfig(string name, string text)
+    public void SetDialogConfig(string dialogConfig, UnityEvent dialogCallback)
     {
+        callback = null;
+        if (dialogCallback != null)
+            callback = dialogCallback;
+
         char[] configSep = {'-'};
-        string[] configs = text.Split(configSep);
+        string[] configs = dialogConfig.Split(configSep);
 
         char[] configPartSep = {'\n'};
         char[] trimChars = {' ', '\n'};
@@ -219,6 +222,9 @@ public class DialogController : MonoBehaviour
         }
         else
         {
+            if (callback != null)
+                callback.Invoke();
+            
             GameController.GetInstance().HideDialog();
         }
     }
