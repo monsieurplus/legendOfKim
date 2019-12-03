@@ -87,7 +87,8 @@ public class DialogController : MonoBehaviour
         if (characterShowing)
             UpdateCharacterShowing();
 
-        UpdateNextButton();
+        if (isVisible)
+            UpdateNextButton();
     }
 
     public bool IsVisible()
@@ -193,7 +194,7 @@ public class DialogController : MonoBehaviour
 
     private void UpdateNextButton()
     {
-        if (currentDialog+1 < dialogsLength)
+        if (currentDialog+1 < dialogsLength && !characterShowing)
         {
             if (Time.time > (nextLastTime + nextBlinkDuration))
             {
