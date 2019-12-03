@@ -40,7 +40,7 @@ public class DialogController : MonoBehaviour
     public float namePadding;
     public float nameCharWidth;
 
-    private bool spaceReleased = true;
+    private bool spaceReleased = false;
 
     // Start is called before the first frame update
     void Start()
@@ -102,11 +102,26 @@ public class DialogController : MonoBehaviour
 
     public void SetDialogConfig(string name, string text)
     {
-        dialogsLength = 2;
-        dialogs[0].name = name;
-        dialogs[0].text = text;
-        dialogs[1].name = "Bernard";
-        dialogs[1].text = "Blablabla bla blabla blubla bli blabla blabliblu blublabla ble";
+        char[] configSep = {'-'};
+        string[] configs = text.Split(configSep);
+
+        char[] configPartSep = {'\n'};
+        char[] trimChars = {' ', '\n'};
+        string[] configParts;
+
+        dialogsLength = configs.Length;
+        for (int i=0; i < configs.Length; i++) {
+            configParts = configs[i].Trim(trimChars).Split(configPartSep);
+            
+            if (configParts.Length == 1) {
+                dialogs[i].name = "";
+                dialogs[i].text = configParts[0];
+            }
+            else {
+                dialogs[i].name = configParts[0];
+                dialogs[i].text = configParts[1];
+            }
+        }
     }
 
     private void SetCurrentDialog(int dialogIndex)
@@ -126,6 +141,7 @@ public class DialogController : MonoBehaviour
     {
         isVisible = true;
         isAvailable = false;
+        spaceReleased = false;
 
         SetCurrentDialog(0);
         canvasGroup.alpha = 1f;
@@ -160,6 +176,9 @@ public class DialogController : MonoBehaviour
 
         DialogItem dialog = dialogs[currentDialog];
         dialogText.text = dialog.text.Substring(0, characterNumber);
+
+        // Force name update because of contentSizeFitter bugs...
+        dialogNameText.text = dialog.name + (characterNumber % 2 == 0 ? " " : "");
 
         if (characterNumber >= dialog.text.Length)
             characterShowing = false;
