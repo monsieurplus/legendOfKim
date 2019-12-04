@@ -26,6 +26,8 @@ public class NpcController : MonoBehaviour
     public string talkConfig;
     public UnityEvent talkCallback;
 
+    public ProgressBarController progress;
+
     // Start is called before the first frame update
     void Start()
     {

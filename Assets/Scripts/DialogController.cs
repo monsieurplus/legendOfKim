@@ -162,7 +162,7 @@ public class DialogController : MonoBehaviour
 
     private void SetName(string name)
     {
-        dialogNameText.text = "";
+        dialogNameContainer.GetComponent<CanvasGroup>().alpha = (name == "" ? 0f : 1f);
         dialogNameText.text = name;
     }
     private void SetText(string text)
