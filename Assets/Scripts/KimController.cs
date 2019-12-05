@@ -58,9 +58,14 @@ public class KimController : MonoBehaviour
         animator.SetFloat("moving_direction", movingDirection);
     }
 
-    public void SetTalking(bool talking)
+    public void SetTalking(bool status)
     {
-        animator.SetBool("talking", talking);
+        animator.SetBool("talking", status);
+    }
+
+    public void SetMassaging(bool status)
+    {
+        animator.SetBool("massaging", status);
     }
 
     /*private void OnTriggerEnter(Collider other)

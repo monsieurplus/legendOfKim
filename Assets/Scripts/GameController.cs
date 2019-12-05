@@ -45,6 +45,16 @@ public class GameController : MonoBehaviour
         player.controllable = true;
     }
 
+    public void StartMassage() {
+        player.controllable = false;
+        player.SetMassaging(true);
+    }
+
+    public void EndMassage() {
+        player.controllable = true;
+        player.SetMassaging(false);
+    }
+
     // every 2 seconds perform the print()
     private IEnumerator GiveBackControl(float waitTime)
     {

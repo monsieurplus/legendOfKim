@@ -5,13 +5,16 @@ using UnityEngine;
 public class ProgressBarController : MonoBehaviour
 {
     public GameObject progressBar;
-    private SpriteRenderer progressBarSprite;
+    public GameObject progressBarBackground;
+    private SpriteRenderer progressBarRenderer;
     private float maxWidth = 0.27f;
+    private Vector2 progressBarSize;
 
     // Start is called before the first frame update
     void Start()
     {
-        progressBarSprite = progressBar.GetComponent<SpriteRenderer>();
+        progressBarRenderer = progressBar.GetComponent<SpriteRenderer>();
+        progressBarSize = progressBarRenderer.size;
     }
 
     // Update is called once per frame
@@ -20,8 +23,25 @@ public class ProgressBarController : MonoBehaviour
         
     }
 
+    public void Show() {
+        progressBar.SetActive(true);
+        progressBarBackground.SetActive(true);
+    }
+
+    public void Hide() {
+        progressBar.SetActive(false);
+        progressBarBackground.SetActive(false);
+    }
+
     public void SetPercent(float percent) {
         percent = Mathf.Clamp(percent, 0f, 100f);
         float newWidth = (percent/100f) * maxWidth;
+        ApplyWidth(newWidth);
+    }
+
+    private void ApplyWidth(float width) {
+        progressBar.SetActive(width > 0f);
+        progressBarSize.x = width;
+        progressBarRenderer.size = progressBarSize;
     }
 }
