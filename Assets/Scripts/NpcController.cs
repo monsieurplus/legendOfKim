@@ -45,6 +45,9 @@ public class NpcController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        SpriteRenderer sr = this.GetComponent<SpriteRenderer>();
+        sr.receiveShadows = true;
+        sr.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.On;
     }
 
     private void OnTriggerEnter(Collider other) {
@@ -60,7 +63,7 @@ public class NpcController : MonoBehaviour
     {
         if (action != NpcAction.None && reachable && Input.GetKey("space"))
         {
-            if (action == NpcAction.Talk && GetGame().dialog.IsAvailable())
+            if (action == NpcAction.Talk && GetGame().dialog.IsAvailable() && !massaging)
             {
                 GetGame().ShowDialog(talkConfig, talkCallback);
             }
@@ -95,6 +98,13 @@ public class NpcController : MonoBehaviour
         }
     }
 
+    public void SetActionToTalk() {
+        this.action = NpcAction.Talk;
+    }
+    public void SetActionToMassage() {
+        this.action = NpcAction.Massage;
+    }
+
     private void ShowTalk() {
         talkIcon.SetActive(true);
     }
@@ -109,8 +119,13 @@ public class NpcController : MonoBehaviour
     }
 
     private void UpdateMassageProgress() {
-        if (action != NpcAction.Massage)
+        if (action != NpcAction.Massage) {
+            if (massaging) {
+                EndMassage();
+            }
             return;
+        }
+            
         
         // Init the second counter
         if (massageTimer == -1f)
@@ -128,9 +143,7 @@ public class NpcController : MonoBehaviour
 
         // Handling the massage timer (time before next massage possible)
         if (massaging && Time.time - massagingStart >= massagingDuration) {
-            massaging = false;
-            massagingStart = -1f;
-            GetGame().EndMassage();
+            EndMassage();
         }
 
         // Callback once 100%
@@ -150,5 +163,11 @@ public class NpcController : MonoBehaviour
         // Add massage value to the progress
         massageProgressValue += massagePower;
         massageProgressValue += Random.Range(massagePowerRandomMin, massagePowerRandomMax);
+    }
+
+    private void EndMassage() {
+        massaging = false;
+        massagingStart = -1f;
+        GetGame().EndMassage();
     }
 }

@@ -48,6 +48,7 @@ public class GameController : MonoBehaviour
     public void StartMassage() {
         player.controllable = false;
         player.SetMassaging(true);
+        player.PlayRandomPouic();
     }
 
     public void EndMassage() {
