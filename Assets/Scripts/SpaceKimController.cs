@@ -59,7 +59,7 @@ public class SpaceKimController : MonoBehaviour
 
             if (Input.GetKeyDown("space")) {
                 GameObject proj = GameObject.Instantiate(projectilePrefab);
-                proj.transform.position = transform.position;
+                proj.transform.position = transform.position - new Vector3(0f, 0f, 0.1f);
                 PlayRandomDesign();
             }
         }

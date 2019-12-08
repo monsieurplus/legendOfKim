@@ -1,0 +1,4999 @@
+fileFormatVersion: 2
+guid: 9c27b48123ed14debb363930393fcbc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2059222797098501053
+    second: kim_dressed_0
+  - first:
+      213: 1134871064837674754
+    second: kim_dressed_1
+  - first:
+      213: 7223581617275624157
+    second: kim_dressed_2
+  - first:
+      213: 6513107872009437198
+    second: kim_dressed_3
+  - first:
+      213: 5551843476833924204
+    second: kim_dressed_4
+  - first:
+      213: -4814040699019781911
+    second: kim_dressed_5
+  - first:
+      213: -8348707220498185994
+    second: kim_dressed_6
+  - first:
+      213: 4896769615408760447
+    second: kim_dressed_7
+  - first:
+      213: -8853577341245600529
+    second: kim_dressed_8
+  - first:
+      213: -2004156735483080226
+    second: kim_dressed_9
+  - first:
+      213: 6707915031990568618
+    second: kim_dressed_10
+  - first:
+      213: 7460074079181232875
+    second: kim_dressed_11
+  - first:
+      213: 7415832922091176238
+    second: kim_dressed_12
+  - first:
+      213: 6878704671017331759
+    second: kim_dressed_13
+  - first:
+      213: 8658054159255549921
+    second: kim_dressed_14
+  - first:
+      213: -7070646730594006582
+    second: kim_dressed_15
+  - first:
+      213: 2680633154935049829
+    second: kim_dressed_16
+  - first:
+      213: -6180513417421329431
+    second: kim_dressed_17
+  - first:
+      213: 4096710552331033741
+    second: kim_dressed_18
+  - first:
+      213: -6295769337229759785
+    second: kim_dressed_19
+  - first:
+      213: -7711510806153273266
+    second: kim_dressed_20
+  - first:
+      213: -5343476060338942891
+    second: kim_dressed_21
+  - first:
+      213: -8506047914039767302
+    second: kim_dressed_22
+  - first:
+      213: 1724940661456863074
+    second: kim_dressed_23
+  - first:
+      213: -8665648930651979917
+    second: kim_dressed_24
+  - first:
+      213: 8807439369463272043
+    second: kim_dressed_25
+  - first:
+      213: -2758031363844600934
+    second: kim_dressed_26
+  - first:
+      213: 3461438483443943724
+    second: kim_dressed_27
+  - first:
+      213: -569020318229346907
+    second: kim_dressed_28
+  - first:
+      213: 3676990020535579635
+    second: kim_dressed_29
+  - first:
+      213: -6192822026972790361
+    second: kim_dressed_30
+  - first:
+      213: -3302372792421816492
+    second: kim_dressed_31
+  - first:
+      213: -7526683395498075163
+    second: kim_dressed_32
+  - first:
+      213: 6055356304669914965
+    second: kim_dressed_33
+  - first:
+      213: -7988308499705765156
+    second: kim_dressed_34
+  - first:
+      213: -384058240353476893
+    second: kim_dressed_35
+  - first:
+      213: 2571841046642183731
+    second: kim_dressed_36
+  - first:
+      213: -6956819076787038668
+    second: kim_dressed_37
+  - first:
+      213: 8385611202689484547
+    second: kim_dressed_38
+  - first:
+      213: 4517269315675789654
+    second: kim_dressed_39
+  - first:
+      213: -7147544376686540605
+    second: kim_dressed_40
+  - first:
+      213: -4035524863403488386
+    second: kim_dressed_41
+  - first:
+      213: 1530373798703610527
+    second: kim_dressed_42
+  - first:
+      213: -2904450783237605484
+    second: kim_dressed_43
+  - first:
+      213: 3619120415160345141
+    second: kim_dressed_44
+  - first:
+      213: -650785899521715106
+    second: kim_dressed_45
+  - first:
+      213: 5280301353068458956
+    second: kim_dressed_46
+  - first:
+      213: 8524324518237804884
+    second: kim_dressed_47
+  - first:
+      213: -472386682842475604
+    second: kim_dressed_48
+  - first:
+      213: -4204724865256843070
+    second: kim_dressed_49
+  - first:
+      213: -3836337272372567674
+    second: kim_dressed_50
+  - first:
+      213: 7594755110753683050
+    second: kim_dressed_51
+  - first:
+      213: -8180952946512349672
+    second: kim_dressed_52
+  - first:
+      213: -2021274571450747893
+    second: kim_dressed_53
+  - first:
+      213: 8208595147488517911
+    second: kim_dressed_54
+  - first:
+      213: 6247974411817181852
+    second: kim_dressed_55
+  - first:
+      213: 7929164345163275988
+    second: kim_dressed_56
+  - first:
+      213: 6413241322918704944
+    second: kim_dressed_57
+  - first:
+      213: 3206051929095980358
+    second: kim_dressed_58
+  - first:
+      213: -8772318917089203403
+    second: kim_dressed_59
+  - first:
+      213: 8311881278694686962
+    second: kim_dressed_60
+  - first:
+      213: 8425563452625158130
+    second: kim_dressed_61
+  - first:
+      213: -5651437682422470815
+    second: kim_dressed_62
+  - first:
+      213: 5936037714779694769
+    second: kim_dressed_63
+  - first:
+      213: 8918276156988865734
+    second: kim_dressed_64
+  - first:
+      213: 581231904746984900
+    second: kim_dressed_65
+  - first:
+      213: 2232723953876791174
+    second: kim_dressed_66
+  - first:
+      213: 1906461115472587973
+    second: kim_dressed_67
+  - first:
+      213: 9003190623055589490
+    second: kim_dressed_68
+  - first:
+      213: 5075220075845403245
+    second: kim_dressed_69
+  - first:
+      213: -1134145470289685070
+    second: kim_dressed_70
+  - first:
+      213: -4245297053036347652
+    second: kim_dressed_71
+  - first:
+      213: -2074892409627456889
+    second: kim_dressed_72
+  - first:
+      213: -5730296828836752061
+    second: kim_dressed_73
+  - first:
+      213: -9019272886947547107
+    second: kim_dressed_74
+  - first:
+      213: 2782872462084487158
+    second: kim_dressed_75
+  - first:
+      213: -2995484273765370249
+    second: kim_dressed_76
+  - first:
+      213: -7087045671210028175
+    second: kim_dressed_77
+  - first:
+      213: 7240532136967403233
+    second: kim_dressed_78
+  - first:
+      213: 6318327669208692545
+    second: kim_dressed_79
+  - first:
+      213: 2552871153559371999
+    second: kim_dressed_80
+  - first:
+      213: -2155602543160756427
+    second: kim_dressed_81
+  - first:
+      213: 3614577417913790629
+    second: kim_dressed_82
+  - first:
+      213: -7734076432072838597
+    second: kim_dressed_83
+  - first:
+      213: 4307820989935178799
+    second: kim_dressed_84
+  - first:
+      213: -7666692902649362735
+    second: kim_dressed_85
+  - first:
+      213: 4402528120390041404
+    second: kim_dressed_86
+  - first:
+      213: -5535104186478088281
+    second: kim_dressed_87
+  - first:
+      213: 3340078078575494585
+    second: kim_dressed_88
+  - first:
+      213: -2897150705195997426
+    second: kim_dressed_89
+  - first:
+      213: -4773063688873332147
+    second: kim_dressed_90
+  - first:
+      213: -6685162163646501500
+    second: kim_dressed_91
+  - first:
+      213: 196735743204106276
+    second: kim_dressed_92
+  - first:
+      213: -3735815791897646944
+    second: kim_dressed_93
+  - first:
+      213: 4249668182293900177
+    second: kim_dressed_94
+  - first:
+      213: 2597421604282704120
+    second: kim_dressed_95
+  - first:
+      213: -907389894667465357
+    second: kim_dressed_96
+  - first:
+      213: 946738923500325307
+    second: kim_dressed_97
+  - first:
+      213: 708908118372128574
+    second: kim_dressed_98
+  - first:
+      213: 4239974042662716313
+    second: kim_dressed_99
+  - first:
+      213: 4164839334596548022
+    second: kim_dressed_100
+  - first:
+      213: 798862967595893199
+    second: kim_dressed_101
+  - first:
+      213: -7154034491359537461
+    second: kim_dressed_102
+  - first:
+      213: 1595501816660116517
+    second: kim_dressed_103
+  - first:
+      213: -3450076148709077497
+    second: kim_dressed_104
+  - first:
+      213: 8571456209555358366
+    second: kim_dressed_105
+  - first:
+      213: -1817801929651137724
+    second: kim_dressed_106
+  - first:
+      213: 1581867045882092394
+    second: kim_dressed_107
+  - first:
+      213: 2634784008589034813
+    second: kim_dressed_108
+  - first:
+      213: -2144084784597640869
+    second: kim_dressed_109
+  - first:
+      213: 4102797331132325645
+    second: kim_dressed_110
+  - first:
+      213: 4537543947534104085
+    second: kim_dressed_111
+  - first:
+      213: 6228346582377859148
+    second: kim_dressed_112
+  - first:
+      213: 2777420875970089322
+    second: kim_dressed_113
+  - first:
+      213: 6791898504080337597
+    second: kim_dressed_114
+  - first:
+      213: 7448374497800039704
+    second: kim_dressed_115
+  - first:
+      213: 2541174121774457265
+    second: kim_dressed_116
+  - first:
+      213: -6374381235620014736
+    second: kim_dressed_117
+  - first:
+      213: 2243668743333179412
+    second: kim_dressed_118
+  - first:
+      213: 7099791989459477494
+    second: kim_dressed_119
+  - first:
+      213: 5951836580374412387
+    second: kim_dressed_120
+  - first:
+      213: 228308062126769864
+    second: kim_dressed_121
+  - first:
+      213: 8242096943014877435
+    second: kim_dressed_122
+  - first:
+      213: 1387731531481008082
+    second: kim_dressed_123
+  - first:
+      213: -3962334746819147491
+    second: kim_dressed_124
+  - first:
+      213: -3747291067754452161
+    second: kim_dressed_125
+  - first:
+      213: 7126760744009873841
+    second: kim_dressed_126
+  - first:
+      213: 8927695010891035994
+    second: kim_dressed_127
+  - first:
+      213: 5979836866528685489
+    second: kim_dressed_128
+  - first:
+      213: 4845423588926735570
+    second: kim_dressed_129
+  - first:
+      213: -6302578345109263980
+    second: kim_dressed_130
+  - first:
+      213: -4858722225309228989
+    second: kim_dressed_131
+  - first:
+      213: -3356863034667305148
+    second: kim_dressed_132
+  - first:
+      213: -2280005627822577191
+    second: kim_dressed_133
+  - first:
+      213: -5660711872073285272
+    second: kim_dressed_134
+  - first:
+      213: 6471827085854309158
+    second: kim_dressed_135
+  - first:
+      213: 2503213298572833059
+    second: kim_dressed_136
+  - first:
+      213: -9153524606526086656
+    second: kim_dressed_137
+  - first:
+      213: -3968566277613419664
+    second: kim_dressed_138
+  - first:
+      213: 3421212216622961684
+    second: kim_dressed_139
+  - first:
+      213: 2698915626038339626
+    second: kim_dressed_140
+  - first:
+      213: -3767925159239933245
+    second: kim_dressed_141
+  - first:
+      213: -3593124267698165706
+    second: kim_dressed_142
+  - first:
+      213: -5119191108769116798
+    second: kim_dressed_143
+  - first:
+      213: -5729128510258144973
+    second: kim_dressed_144
+  - first:
+      213: 1798729802087597840
+    second: kim_dressed_145
+  - first:
+      213: -3655377685270364893
+    second: kim_dressed_146
+  - first:
+      213: 3544378399167416894
+    second: kim_dressed_147
+  - first:
+      213: -346454421928557032
+    second: kim_dressed_148
+  - first:
+      213: -6267276261524684636
+    second: kim_dressed_149
+  - first:
+      213: -4282384896377254532
+    second: kim_dressed_150
+  - first:
+      213: 8449408570214556726
+    second: kim_dressed_151
+  - first:
+      213: -7359654774083092101
+    second: kim_dressed_152
+  - first:
+      213: -2137589634526206170
+    second: kim_dressed_153
+  - first:
+      213: 6668656790704538846
+    second: kim_dressed_154
+  - first:
+      213: 795613775824932837
+    second: kim_dressed_155
+  - first:
+      213: 8809286775378421379
+    second: kim_dressed_156
+  - first:
+      213: 8567758602028889370
+    second: kim_dressed_157
+  - first:
+      213: 7249685242582533315
+    second: kim_dressed_158
+  - first:
+      213: -4139812295076596054
+    second: kim_dressed_159
+  - first:
+      213: -8660026440024821507
+    second: kim_dressed_160
+  - first:
+      213: 8982931410849333692
+    second: kim_dressed_161
+  - first:
+      213: 3153991365684525629
+    second: kim_dressed_162
+  - first:
+      213: 8497212685914094449
+    second: kim_dressed_163
+  - first:
+      213: -7161383291506233493
+    second: kim_dressed_164
+  - first:
+      213: -4720600783556132396
+    second: kim_dressed_165
+  - first:
+      213: -222532072788532389
+    second: kim_dressed_166
+  - first:
+      213: 9066376583210005156
+    second: kim_dressed_167
+  - first:
+      213: -87465708800967284
+    second: kim_dressed_168
+  - first:
+      213: -3511177832143905842
+    second: kim_dressed_169
+  - first:
+      213: -7621060066606067783
+    second: kim_dressed_170
+  - first:
+      213: -3616730738077765480
+    second: kim_dressed_171
+  - first:
+      213: 2078333131090378993
+    second: kim_dressed_172
+  - first:
+      213: -5116166057837763984
+    second: kim_dressed_173
+  - first:
+      213: -7075044540980431723
+    second: kim_dressed_174
+  - first:
+      213: 3720347378777491450
+    second: kim_dressed_175
+  - first:
+      213: -5473120877498273172
+    second: kim_dressed_176
+  - first:
+      213: 8509491522846123132
+    second: kim_dressed_177
+  - first:
+      213: -7778631773136396033
+    second: kim_dressed_178
+  - first:
+      213: 7806358307161806715
+    second: kim_dressed_179
+  - first:
+      213: 8463471492133458353
+    second: space_kim_0
+  - first:
+      213: -5754160359244781192
+    second: space_kim_1
+  - first:
+      213: -6244496388477661376
+    second: space_kim_2
+  - first:
+      213: 1776176575853785017
+    second: space_kim_3
+  - first:
+      213: -1767168217005931387
+    second: space_kim_4
+  - first:
+      213: 7488602545725736540
+    second: space_kim_5
+  - first:
+      213: -3263132964403864073
+    second: space_kim_6
+  - first:
+      213: 5087221268438425422
+    second: space_kim_7
+  - first:
+      213: -9183647027164450495
+    second: space_kim_8
+  - first:
+      213: 5808660125866268227
+    second: space_kim_9
+  - first:
+      213: -4976719094262269132
+    second: space_kim_10
+  - first:
+      213: -3728170262486718805
+    second: space_kim_11
+  - first:
+      213: -3470930290799438649
+    second: space_kim_12
+  - first:
+      213: 4391533277279811327
+    second: space_kim_13
+  - first:
+      213: 8285866225742878076
+    second: space_kim_14
+  - first:
+      213: 4779707481825824810
+    second: space_kim_15
+  - first:
+      213: -6524106597299939017
+    second: space_kim_16
+  - first:
+      213: -6898999129312632416
+    second: space_kim_17
+  - first:
+      213: -4115595563871646541
+    second: space_kim_18
+  - first:
+      213: -2752997177507034033
+    second: space_kim_19
+  - first:
+      213: 1767263643452823537
+    second: space_kim_20
+  - first:
+      213: 5812041799393446539
+    second: space_kim_21
+  - first:
+      213: -1330599654489110715
+    second: space_kim_22
+  - first:
+      213: 1789377627461668548
+    second: space_kim_23
+  - first:
+      213: -8748737287577632558
+    second: space_kim_24
+  - first:
+      213: 4302971648702324479
+    second: space_kim_25
+  - first:
+      213: -2782406662684499203
+    second: space_kim_26
+  - first:
+      213: -1497207783899938023
+    second: space_kim_27
+  - first:
+      213: -3750100849801118099
+    second: space_kim_28
+  - first:
+      213: 9221240789456888209
+    second: space_kim_29
+  - first:
+      213: 1292576980918932740
+    second: space_kim_30
+  - first:
+      213: -9034317723675794929
+    second: space_kim_31
+  - first:
+      213: 364637274578207060
+    second: space_kim_32
+  - first:
+      213: 2697652052237489527
+    second: space_kim_33
+  - first:
+      213: 5053091517957071693
+    second: space_kim_34
+  - first:
+      213: -5534690680606181503
+    second: space_kim_35
+  - first:
+      213: -5575595977903202430
+    second: space_kim_36
+  - first:
+      213: 6309602412802323694
+    second: space_kim_37
+  - first:
+      213: 624809877515557615
+    second: space_kim_38
+  - first:
+      213: -1256536339923850753
+    second: space_kim_39
+  - first:
+      213: -6069202647489334328
+    second: space_kim_40
+  - first:
+      213: 6910515470715667300
+    second: space_kim_41
+  - first:
+      213: 6704054804658985989
+    second: space_kim_42
+  - first:
+      213: -6753791052474927354
+    second: space_kim_43
+  - first:
+      213: 7607761646825364928
+    second: space_kim_44
+  - first:
+      213: 8989920213019026514
+    second: space_kim_45
+  - first:
+      213: -8501962833377471817
+    second: space_kim_46
+  - first:
+      213: -2335793816933519349
+    second: space_kim_47
+  - first:
+      213: 4451258710480578925
+    second: space_kim_48
+  - first:
+      213: 5681123051734767302
+    second: space_kim_49
+  - first:
+      213: 2059092307181016101
+    second: space_kim_50
+  - first:
+      213: -1144459266538539941
+    second: space_kim_51
+  - first:
+      213: -6277963439793640764
+    second: space_kim_52
+  - first:
+      213: -3899952015232795605
+    second: space_kim_53
+  - first:
+      213: -6945644565593608926
+    second: space_kim_54
+  - first:
+      213: 3757879668243339588
+    second: space_kim_55
+  - first:
+      213: -6717782048075515349
+    second: space_kim_56
+  - first:
+      213: -2908571598275258719
+    second: space_kim_57
+  - first:
+      213: 7124976616179796803
+    second: space_kim_58
+  - first:
+      213: -3214427847947971565
+    second: space_kim_59
+  - first:
+      213: -4351831325581001842
+    second: space_kim_60
+  - first:
+      213: -1159996117560892715
+    second: space_kim_61
+  - first:
+      213: 2664296498128386664
+    second: space_kim_62
+  - first:
+      213: -7583233735831128432
+    second: space_kim_63
+  - first:
+      213: -6836724494124371783
+    second: space_kim_64
+  - first:
+      213: 5946905907866262229
+    second: space_kim_65
+  - first:
+      213: -4557259736249479610
+    second: space_kim_66
+  - first:
+      213: 7254325536170538876
+    second: space_kim_67
+  - first:
+      213: 8735192833970559094
+    second: space_kim_68
+  - first:
+      213: -3126429878729245288
+    second: space_kim_69
+  - first:
+      213: -758871092932701429
+    second: space_kim_70
+  - first:
+      213: 3749916007716595117
+    second: space_kim_71
+  - first:
+      213: 4325885138503319341
+    second: space_kim_72
+  - first:
+      213: -7456686901433681437
+    second: space_kim_73
+  - first:
+      213: -7071483567460645366
+    second: space_kim_74
+  - first:
+      213: -6023178971907918090
+    second: space_kim_75
+  - first:
+      213: -4077394377777759442
+    second: space_kim_76
+  - first:
+      213: -2215877126466911037
+    second: space_kim_77
+  - first:
+      213: -3619650225506954926
+    second: space_kim_78
+  - first:
+      213: 1943045155336026797
+    second: space_kim_79
+  - first:
+      213: -2331194941406762689
+    second: space_kim_80
+  - first:
+      213: 7653486887239082148
+    second: space_kim_81
+  - first:
+      213: 7378310742468105462
+    second: space_kim_82
+  - first:
+      213: 8831476138005999630
+    second: space_kim_83
+  - first:
+      213: 680996960848991813
+    second: space_kim_84
+  - first:
+      213: -148279794474077192
+    second: space_kim_85
+  - first:
+      213: -3683519873654848111
+    second: space_kim_86
+  - first:
+      213: -5860544826716818827
+    second: space_kim_87
+  - first:
+      213: -7194486298656353639
+    second: space_kim_88
+  - first:
+      213: -3414339343931950882
+    second: space_kim_89
+  - first:
+      213: 834144265387112183
+    second: space_kim_90
+  - first:
+      213: 4011821299278291018
+    second: space_kim_91
+  - first:
+      213: 4215707311533453290
+    second: space_kim_92
+  - first:
+      213: -4123703504709178315
+    second: space_kim_93
+  - first:
+      213: 6782242310715281826
+    second: space_kim_94
+  - first:
+      213: -6222725882442668617
+    second: space_kim_95
+  - first:
+      213: 781330919680018314
+    second: space_kim_96
+  - first:
+      213: -7821465909084153051
+    second: space_kim_97
+  - first:
+      213: 1742208120744343008
+    second: space_kim_98
+  - first:
+      213: -4342545596342691107
+    second: space_kim_99
+  - first:
+      213: 5116908482662800670
+    second: space_kim_100
+  - first:
+      213: -2136920677927361608
+    second: space_kim_101
+  - first:
+      213: -1923913524088917627
+    second: space_kim_102
+  - first:
+      213: 3780706443778998723
+    second: space_kim_103
+  - first:
+      213: 2842622200431212315
+    second: space_kim_104
+  - first:
+      213: -1352986905131385332
+    second: space_kim_105
+  - first:
+      213: 4119894310907338946
+    second: space_kim_106
+  - first:
+      213: -6189636703007038232
+    second: space_kim_107
+  - first:
+      213: -1856922494408939781
+    second: space_kim_108
+  - first:
+      213: 5613423031771380395
+    second: space_kim_109
+  - first:
+      213: -3677787237594072044
+    second: space_kim_110
+  - first:
+      213: 2122078443121488086
+    second: space_kim_111
+  - first:
+      213: 640963090201088086
+    second: space_kim_112
+  - first:
+      213: 8884600762537021052
+    second: space_kim_113
+  - first:
+      213: 2809866399705665228
+    second: space_kim_114
+  - first:
+      213: -8962909925444159137
+    second: space_kim_115
+  - first:
+      213: -2695952014675986223
+    second: space_kim_116
+  - first:
+      213: 7779161906467146789
+    second: space_kim_117
+  - first:
+      213: 1569329183019223581
+    second: space_kim_118
+  - first:
+      213: -2993760186580020284
+    second: space_kim_119
+  - first:
+      213: -7297771017720344054
+    second: space_kim_120
+  - first:
+      213: 1366890455139295554
+    second: space_kim_121
+  - first:
+      213: 1492268969844549428
+    second: space_kim_122
+  - first:
+      213: 2312360623878939756
+    second: space_kim_123
+  - first:
+      213: -5556384039866798200
+    second: space_kim_124
+  - first:
+      213: -6761520196091659222
+    second: space_kim_125
+  - first:
+      213: -3327416672596361828
+    second: space_kim_126
+  - first:
+      213: 374120465435195166
+    second: space_kim_127
+  - first:
+      213: -4679640949404543239
+    second: space_kim_128
+  - first:
+      213: -7921352430667753177
+    second: space_kim_129
+  - first:
+      213: -8893651408805223769
+    second: space_kim_130
+  - first:
+      213: -1689361538028636482
+    second: space_kim_131
+  - first:
+      213: -7503386613106628605
+    second: space_kim_132
+  - first:
+      213: -1567106306382595470
+    second: space_kim_133
+  - first:
+      213: -1986630124687435085
+    second: space_kim_134
+  - first:
+      213: 8633919335950333829
+    second: space_kim_135
+  - first:
+      213: 6566044796148150140
+    second: space_kim_136
+  - first:
+      213: 5264285869250134353
+    second: space_kim_137
+  - first:
+      213: 7948143150558184612
+    second: space_kim_138
+  - first:
+      213: 3144032770287816741
+    second: space_kim_139
+  - first:
+      213: -4551007275865362769
+    second: space_kim_140
+  - first:
+      213: 8116828445132289010
+    second: space_kim_141
+  - first:
+      213: 7773078200775271204
+    second: space_kim_142
+  - first:
+      213: 1700813772022641656
+    second: space_kim_143
+  - first:
+      213: 4950294527487910979
+    second: space_kim_144
+  - first:
+      213: 3195401854420995033
+    second: space_kim_145
+  - first:
+      213: -846243613185786104
+    second: space_kim_146
+  - first:
+      213: -3381036033161381235
+    second: space_kim_147
+  - first:
+      213: -2925259681053643390
+    second: space_kim_148
+  - first:
+      213: 7197847913907664055
+    second: space_kim_149
+  - first:
+      213: 4173548514921565080
+    second: space_kim_150
+  - first:
+      213: 5144915504337803629
+    second: space_kim_151
+  - first:
+      213: -7474684341626856377
+    second: space_kim_152
+  - first:
+      213: -4043689868739260358
+    second: space_kim_153
+  - first:
+      213: -763700666309762480
+    second: space_kim_154
+  - first:
+      213: -6137358803453991169
+    second: space_kim_155
+  - first:
+      213: -7488806922057899684
+    second: space_kim_156
+  - first:
+      213: -1119103056788595499
+    second: space_kim_157
+  - first:
+      213: 8182450149899316933
+    second: space_kim_158
+  - first:
+      213: -1811791805922044457
+    second: space_kim_159
+  - first:
+      213: -1048788874600601519
+    second: space_kim_160
+  - first:
+      213: -5895196019145998798
+    second: space_kim_161
+  - first:
+      213: -278250682483689019
+    second: space_kim_162
+  - first:
+      213: -7181554294666631379
+    second: space_kim_163
+  - first:
+      213: -1489125810404295513
+    second: space_kim_164
+  - first:
+      213: 2639271485928893481
+    second: space_kim_165
+  - first:
+      213: -5844759212231928887
+    second: space_kim_166
+  - first:
+      213: 3086566944820765797
+    second: space_kim_167
+  - first:
+      213: 1639777921533939229
+    second: space_kim_168
+  - first:
+      213: -3450050699657350150
+    second: space_kim_169
+  - first:
+      213: -1328928440549156453
+    second: space_kim_170
+  - first:
+      213: 995195686147761279
+    second: space_kim_171
+  - first:
+      213: -8129180004591269823
+    second: space_kim_172
+  - first:
+      213: 5524908740833771941
+    second: space_kim_173
+  - first:
+      213: 7799648052421910984
+    second: space_kim_174
+  - first:
+      213: -408095732547868259
+    second: space_kim_175
+  - first:
+      213: 6168607820852624471
+    second: space_kim_176
+  - first:
+      213: 1514776326052437469
+    second: space_kim_177
+  - first:
+      213: 9008547458608824083
+    second: space_kim_178
+  - first:
+      213: 3149500996539518854
+    second: space_kim_179
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space_kim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507cec132b6124dec948a4a1e790cc27
+      internalID: 8463471492133458353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01d65ba7a9dd493399d566b1f3049ad
+      internalID: -5754160359244781192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd73a568df5a146429101af1daa9bff0
+      internalID: -6244496388477661376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb98a5c670d714f28a24a2c7e50259d9
+      internalID: 1776176575853785017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f628978ada8459d80a4d354530c88b
+      internalID: -1767168217005931387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44a7385d8e8043268a89825b762a0f8
+      internalID: 7488602545725736540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea75ca9558a34ea3ac4a2bbf44cb481
+      internalID: -3263132964403864073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac85ed7e45f4f87a05fbc39d6130a9
+      internalID: 5087221268438425422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97670e9dea92543c2b6d4546c99662fe
+      internalID: -9183647027164450495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5e418bfe7e74f69a534c7f81f4c579
+      internalID: 5808660125866268227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca855623b6a1f412b83d0dd6512b8f14
+      internalID: -4976719094262269132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0c1743c43f748d1aac88a5eac90bfb
+      internalID: -3728170262486718805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f3c706c693c4b45ad8049ff769a4e9
+      internalID: -3470930290799438649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9833c07bc694e7c823feb737aa8341
+      internalID: 4391533277279811327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da21621964cc1456890d88c182fbcd2b
+      internalID: 8285866225742878076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a5fdf9cf0bf4815a57f6f2a45aa7af
+      internalID: 4779707481825824810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf66e386aeec9481fbe0172f52fc4a6d
+      internalID: -6524106597299939017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dab53ec1d974f9bb950366c17978c8
+      internalID: -6898999129312632416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddb9c1251d1e4db1a62ff311c5ad5be
+      internalID: -4115595563871646541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da1b912cea84d328263b6e5ce7ae66
+      internalID: -2752997177507034033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dc43504dfb84a63ab9616c30c98a93
+      internalID: 1767263643452823537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4e1850e0b6c453c940e80d381c1196
+      internalID: 5812041799393446539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e3edce7163740fe80b4e55be14704c
+      internalID: -1330599654489110715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd42862982a047ac9758be06c56c554
+      internalID: 1789377627461668548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4da45dc6a7d4d21bf40696e1f18250
+      internalID: -8748737287577632558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503a62f7fdc384601a7897fb74f7ed65
+      internalID: 4302971648702324479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110c4ea32ed6144cb88b87269f0b1d31
+      internalID: -2782406662684499203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2bfbfee10fa4ce592024104072f01b
+      internalID: -1497207783899938023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72556c665a1cf487ebc76c5357780e6a
+      internalID: -3750100849801118099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cba9b67a97e4f299e4316b087f560b
+      internalID: 9221240789456888209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e6fac7ff69b4022a4cbafc279222e5
+      internalID: 1292576980918932740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d706d2706d9b14e73b7ab74d690483c2
+      internalID: -9034317723675794929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2d9d5cdfb1d4b258ddc8c93eea796b
+      internalID: 364637274578207060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83856226c52ac4d20b78b2b60a916e2c
+      internalID: 2697652052237489527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0c70b9ee8e0435b9f9ee98390daa54
+      internalID: 5053091517957071693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcc8a98fb3994fe29aef102c1b35759
+      internalID: -5534690680606181503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca66e1251f29646819787be6cf5e45f3
+      internalID: -5575595977903202430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7422d18f0b2bc4b06a05f7143fd827c4
+      internalID: 6309602412802323694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dee1cfc4d984e358b6c6fb050d41dd
+      internalID: 624809877515557615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a543805355ea74a3b8f8236bc1bf920c
+      internalID: -1256536339923850753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223a72e3d571e445dbbecd3fab23dd38
+      internalID: -6069202647489334328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944e7a6ed3e2f4bb28f51f5c625d6e4f
+      internalID: 6910515470715667300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccd882bc261e4b6a966d3a81de0017c
+      internalID: 6704054804658985989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274ade5aea5ce4c9c8370a7413dff309
+      internalID: -6753791052474927354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb9611ba0ba84601b8c83a6f52de89e
+      internalID: 7607761646825364928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6697b6d8d760241a3a374a5af057db1a
+      internalID: 8989920213019026514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe78d23345440c9a7b7a36b8cda276
+      internalID: -8501962833377471817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb72fb9f06da4f81b51b4451c55b50c
+      internalID: -2335793816933519349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466065f3fbd8d4f8fa011faa00ccefa3
+      internalID: 4451258710480578925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38cea433b51c454a85c80d2cb8c92c7
+      internalID: 5681123051734767302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff464db84b99458680732d6319a543b
+      internalID: 2059092307181016101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53111b05233946cc8f3719a97ff2ff5
+      internalID: -1144459266538539941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09590aa5274a49e9944c66d8a063ef0
+      internalID: -6277963439793640764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2914ba2e8ca04cbba0531fdee71f4d4
+      internalID: -3899952015232795605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6980b7c117cb04e9f83600cbffdaac54
+      internalID: -6945644565593608926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957bd619c28ca4a72b3e1b5ea332990a
+      internalID: 3757879668243339588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e600bc4f6c9ac4cb6949fb118da4d314
+      internalID: -6717782048075515349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4928be082d2b34c52b9a8652d63094de
+      internalID: -2908571598275258719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315f421348a1141b6944d6653e8c38de
+      internalID: 7124976616179796803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eec1ab8947c44a97830ec2ce2bcf607
+      internalID: -3214427847947971565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d36472158ee04e7c86cabb261aa83c0
+      internalID: -4351831325581001842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e4bfdfa1d5945ac9e321026660bc33
+      internalID: -1159996117560892715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777eeeecfba94971b38b9ba467d1f32
+      internalID: 2664296498128386664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85994e59a83704045929fc7449950df5
+      internalID: -7583233735831128432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78441cb19b8714ff49d112a64e8ba6f9
+      internalID: -6836724494124371783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d6a51ad762643d39a7bc9acaae13dc
+      internalID: 5946905907866262229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50baceaa0409b4517a31fe03ac89b069
+      internalID: -4557259736249479610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba4be03a272a46279fda0d3f6bba229
+      internalID: 7254325536170538876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee99f142f9a9f478990d411b26c513fb
+      internalID: 8735192833970559094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3688a3e23b8e64df5aed1cfd04dc540b
+      internalID: -3126429878729245288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf83f2d5c65a4b27afc6cd17d7637ed
+      internalID: -758871092932701429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf71e3f1f4984158870e2bf0f74950c
+      internalID: 3749916007716595117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eea5e2721a247b29fae4133470d79a
+      internalID: 4325885138503319341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ed0472e03e742fea66521c42145541
+      internalID: -7456686901433681437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c762f3098aa604c55b2bf1fc5d85a825
+      internalID: -7071483567460645366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25df30f8d8914a309d5c43046e4b7d9
+      internalID: -6023178971907918090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6fde7ec53e54b1cb585e1d6173eec6
+      internalID: -4077394377777759442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef459ad1ebe44a93a00e18e15c9e631
+      internalID: -2215877126466911037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff803b51aab744efb555348c3b60763
+      internalID: -3619650225506954926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a5371304c6e4f36a8ec13722ecb9fe
+      internalID: 1943045155336026797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d20d1a0805e4bfd9b917d28873340f
+      internalID: -2331194941406762689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9b87791863b4dc7996563b63a44af8
+      internalID: 7653486887239082148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf9b08c1204947b481db58e7c329754
+      internalID: 7378310742468105462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb980cc05f94e0f86bd502ac8d23a7
+      internalID: 8831476138005999630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a945bc80c13e491bbd636eed7bd46fb
+      internalID: 680996960848991813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0038667988d47f78cfd2bcf809eb43
+      internalID: -148279794474077192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f052162643334642911638401ae0131
+      internalID: -3683519873654848111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0586446f4fac44850bc3133fc411e4ac
+      internalID: -5860544826716818827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70782450be5664773b9d344fa4afdd2c
+      internalID: -7194486298656353639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a76257d146245e9be592deb31484ea
+      internalID: -3414339343931950882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693bd383ee9684645b8d278453ae70f2
+      internalID: 834144265387112183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1b3576de9554661885be82143e2a41
+      internalID: 4011821299278291018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db7553982f3f4fb99744b99f234dac4
+      internalID: 4215707311533453290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314783510532c462592c7b56e25bdba6
+      internalID: -4123703504709178315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80345a8d478cb4fbbb947305e829c825
+      internalID: 6782242310715281826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_95
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae3f8c2ecea940ac975719ce84723a1
+      internalID: -6222725882442668617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e51e591635c44b6974041d08c0b252
+      internalID: 781330919680018314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_97
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1359fe3d4f2b94bd98962a3febd82999
+      internalID: -7821465909084153051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e05e829bfb6a4bc685b62d497f27a82
+      internalID: 1742208120744343008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c45e376ab39a411fb8edefd506093eb
+      internalID: -4342545596342691107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de1b801ec23b4256b5069bb798357c7
+      internalID: 5116908482662800670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d15cd4dff934316b8e28be33ebbe6b
+      internalID: -2136920677927361608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2074c4c7e6f84706b982f77165d36ee
+      internalID: -1923913524088917627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8105ab249ef6c4e739593b8a26d8b76d
+      internalID: 3780706443778998723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f927ed18f9884692b3aaf4ab3ee73ef
+      internalID: 2842622200431212315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcd0099568fb4941ab8aa79036ba12c
+      internalID: -1352986905131385332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814cdfad82f644d41909f6a74c51a9de
+      internalID: 4119894310907338946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bbab78fc1fd45308747f1b377b1697
+      internalID: -6189636703007038232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d837cc618b44c7f98ac437184a8a3d
+      internalID: -1856922494408939781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f5d196292d340e08714dea1581c480
+      internalID: 5613423031771380395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b27d15de80c746159d786ea87b28902
+      internalID: -3677787237594072044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baadb6d60b8384514842549d956c4250
+      internalID: 2122078443121488086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eec0a0b6b4504ea2982cb2e05f3ebb8
+      internalID: 640963090201088086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_113
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f7653555c94c6a9a17e211deadec0
+      internalID: 8884600762537021052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2e136ef268c4e8b9d5b3317b95400e
+      internalID: 2809866399705665228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c2c5aeb3e0a4fb9a107c26fd67cf9c
+      internalID: -8962909925444159137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f731f4ea733124a43afac55d44e0d992
+      internalID: -2695952014675986223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_117
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0ee082f36a148dd943401ffe22fb25
+      internalID: 7779161906467146789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4fdbaa62c9c4e3bb6273b0ae968e83
+      internalID: 1569329183019223581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98bba8c7c22a4b0ea193425d75471da
+      internalID: -2993760186580020284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cb1fcfae6df47deac3f5368f3a3ba9
+      internalID: -7297771017720344054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_121
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc6cdde30f134dae9f7a5d2ec926cbe
+      internalID: 1366890455139295554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163d2b6cd549545f2abf20ba954963d2
+      internalID: 1492268969844549428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8ac517aaae3452d997d6891e7fa8a6
+      internalID: 2312360623878939756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2fcb29e0c0b405da7996b21a1d36c7
+      internalID: -5556384039866798200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc26ff2a882774e14b2ec3a7ffe46ae4
+      internalID: -6761520196091659222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fd4d7404b394df08d7cc14092d6b13
+      internalID: -3327416672596361828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_127
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0018a8dfe9cb462b83fe652d129a237
+      internalID: 374120465435195166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc499476ac3054de89f2833e8a78726f
+      internalID: -4679640949404543239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_129
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33ca9a20756043f3a3e2425588c40a2
+      internalID: -7921352430667753177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_130
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd185fafed1346f588147a302048cba
+      internalID: -8893651408805223769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_131
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12d714d73e74854b58ae6fed4adf1f
+      internalID: -1689361538028636482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_132
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a34e19f8b2ce4520a6ac89bad7023b9
+      internalID: -7503386613106628605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_133
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d3fb8a1572648e7a39633dbec10f3f
+      internalID: -1567106306382595470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107d7cb75af3a4432b429c421f7cb12c
+      internalID: -1986630124687435085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d105c5b3dae490b84e43e2d819e172
+      internalID: 8633919335950333829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b6f3b0bc6e44f7fbe4389563b03573
+      internalID: 6566044796148150140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c750fc730e2bc4d63975efc5cd96849f
+      internalID: 5264285869250134353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a723f18427244493bae2fff526e5695
+      internalID: 7948143150558184612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_139
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9638f418a71462ca6ae11a99947be0
+      internalID: 3144032770287816741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325438c2b76b34946a846406dcc36ae3
+      internalID: -4551007275865362769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abeede6c910d4abe9412696d929065f
+      internalID: 8116828445132289010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66eb95977d5d4899acbf07666ff0522
+      internalID: 7773078200775271204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_143
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbce872f5a1449938de1890ab02ffef
+      internalID: 1700813772022641656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_144
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12be5519a530a4cceb107c4ecf128738
+      internalID: 4950294527487910979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_145
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de88f8a17ea44dee9a86ec56aac7bc8
+      internalID: 3195401854420995033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_146
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f87f73475ec34f49b2d4af719afcbea
+      internalID: -846243613185786104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bcba6148a454d9cace8c12e34e1b50
+      internalID: -3381036033161381235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ad39fa9b1c1497e833bf49fb41303d
+      internalID: -2925259681053643390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e871ccb0b55466582002571ff7101b
+      internalID: 7197847913907664055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b182121f2fff7430292a79c44f7c3900
+      internalID: 4173548514921565080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_151
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2a76d89c4124468b375b0fbd5ed4fe
+      internalID: 5144915504337803629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b604680230d2458bb0e8d51b174732a
+      internalID: -7474684341626856377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_153
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2896f17898a2436b87b6120071b080c
+      internalID: -4043689868739260358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_154
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf50d5bc677d4e638d26a82a762babe
+      internalID: -763700666309762480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_155
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9cbc7043fd4b43952ceeb75797418
+      internalID: -6137358803453991169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_156
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70859892f9ae44b2b77ae48a5b7e2c9
+      internalID: -7488806922057899684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_157
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a248ceeccef824fe38828e486134dc9a
+      internalID: -1119103056788595499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_158
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb0f380c41e849b3890dd81406dc607
+      internalID: 8182450149899316933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_159
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ae6eea9d47043ec8495b9e5964faaa
+      internalID: -1811791805922044457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_160
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af90e4a800523438cac1eb75f62a18d7
+      internalID: -1048788874600601519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897ee21364b9845c693dd4ac1c3ac0ca
+      internalID: -5895196019145998798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6342e7d33a574e15b1be112b7529790
+      internalID: -278250682483689019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_163
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0290f385356c341e19ee24d3340ca1de
+      internalID: -7181554294666631379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f7af9ca5eb4dd081e8d6f3fdb965e
+      internalID: -1489125810404295513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_165
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e15357f783d498d865b73abd0ce355
+      internalID: 2639271485928893481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5c0b46f850840cfb41792626e38b34
+      internalID: -5844759212231928887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_167
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca104e105da4fef8fb70f7e9ae350c
+      internalID: 3086566944820765797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_168
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4daabbb76090418a83854ca823894fc
+      internalID: 1639777921533939229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_169
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f21ade0a25934e729315a83696c9024
+      internalID: -3450050699657350150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_170
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2f544b3e63c4e7f96b865d3c39bc66
+      internalID: -1328928440549156453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_171
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e4c7dc60bc4753939706e887c1929
+      internalID: 995195686147761279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_172
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75bc792cef0d439d9dfff431af0605c
+      internalID: -8129180004591269823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_173
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b197c31250a1b4699bf5fc1eced3f193
+      internalID: 5524908740833771941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a424b1346a8497f8007a8a7c5158c4
+      internalID: 7799648052421910984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_175
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef54e4068b482400b89ed4e82bc2ec10
+      internalID: -408095732547868259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_176
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8baae9830a5947d2bb32844c54531ec
+      internalID: 6168607820852624471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_177
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dc10fe0e9084f7b8cf520dd71e100c
+      internalID: 1514776326052437469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30584bed1d434455bdfb9be8d2e851a
+      internalID: 9008547458608824083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_kim_179
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826bf99088699487da995353bf96a542
+      internalID: 3149500996539518854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
