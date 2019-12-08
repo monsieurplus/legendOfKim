@@ -22,10 +22,13 @@ public class SpaceKimController : MonoBehaviour
 
     public GameObject projectilePrefab;
 
+    private Animator animator;
+
     // Start is called before the first frame update
     void Start()
     {
         audioSource = this.GetComponent<AudioSource>();
+        animator = this.GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -91,5 +94,13 @@ public class SpaceKimController : MonoBehaviour
             clipIndex--;
 
         audioSource.PlayOneShot(soundDesign[clipIndex]);
+    }
+
+    public void StartWalking() {
+        this.GetComponent<Animator>().SetBool("walking", true);
+    }
+
+    public void StopWalking() {
+        this.GetComponent<Animator>().SetBool("walking", false);
     }
 }

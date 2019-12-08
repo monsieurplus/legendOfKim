@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class SpaceSceneryController : MonoBehaviour
 {
+    public float configScrollSpeed = 1f;
+
     private bool scrolling;
     private float scrollSpeed = 0f;
     private float scrollTargetSpeed = 1f;
@@ -13,7 +15,7 @@ public class SpaceSceneryController : MonoBehaviour
     {
         
     }
-    
+
     // Update is called once per frame
     void Update()
     {
@@ -23,8 +25,10 @@ public class SpaceSceneryController : MonoBehaviour
         }
     }
 
-    public void StartScrolling(float targetSpeed = 1f) {
+    public void StartScrolling(float targetSpeed = 0f) {
         scrolling = true;
+        if (targetSpeed == 0f)
+            targetSpeed = configScrollSpeed;
         scrollTargetSpeed = targetSpeed;
     }
 
@@ -49,6 +53,6 @@ public class SpaceSceneryController : MonoBehaviour
 
     private void UpdateScrolling() {
         if (scrolling && scrollSpeed != 0f)
-            this.transform.Translate(scrollSpeed * Time.deltaTime, 0f, 0f);
+            this.transform.Translate(-scrollSpeed * Time.deltaTime, 0f, 0f);
     }
 }
