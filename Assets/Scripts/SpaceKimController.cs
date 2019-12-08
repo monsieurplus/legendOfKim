@@ -22,13 +22,10 @@ public class SpaceKimController : MonoBehaviour
 
     public GameObject projectilePrefab;
 
-    private Animator animator;
-
     // Start is called before the first frame update
     void Start()
     {
         audioSource = this.GetComponent<AudioSource>();
-        animator = this.GetComponent<Animator>();
     }
 
     // Update is called once per frame

@@ -8,7 +8,7 @@ public class AppleController : MonoBehaviour
     private Rigidbody rb;
 
     private float lifeStart;
-    private float lifeDuration = 3f;
+    public float lifeDuration = 3f;
 
 
     // Start is called before the first frame update
