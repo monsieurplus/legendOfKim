@@ -15,19 +15,41 @@ public class GameController : MonoBehaviour
     public KimController player;
     public new CameraController camera;
     public DialogController dialog;
+    public AudioSource music;
+    
+    public bool showIntro = true;
+    public IntroScreenController intro;
+    private UnityEvent introCallback;
 
     // Start is called before the first frame update
     void Start()
     {
         // Setting the kinfOfASingleton instance
         GameController.instance = this;
-
         camera.GetComponent<CameraController>().FollowObject(player.gameObject);
+
+        // Set callback to the intro
+        player.controllable = false;
+        if (showIntro == true) {
+            introCallback = new UnityEvent();
+            introCallback.AddListener(StartGame);
+            intro.Show(introCallback);
+        }
+        else {
+            intro.gameObject.SetActive(false);
+            StartGame();
+        }
+
+        music.Play();
     }
 
     // Update is called once per frame
     void Update()
     {
+    }
+
+    public void StartGame() {
+        player.controllable = true;
     }
 
     public void ShowDialog(string dialogConfig, UnityEvent dialogCallback = null)

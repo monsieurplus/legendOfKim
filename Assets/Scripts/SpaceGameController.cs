@@ -8,12 +8,17 @@ public class SpaceGameController : MonoBehaviour
     public SpaceKimController player;
     public GameObject camera;
 
+    public bool scrollOnStart = false;
+
     public GameObject[] waves;
 
     // Start is called before the first frame update
     void Start()
     {
-        scenery.StartScrolling();
+        if (scrollOnStart) {
+            scenery.StartScrolling();
+        }
+        
         player.StartWalking();
     }
 

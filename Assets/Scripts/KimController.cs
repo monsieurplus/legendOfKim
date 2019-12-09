@@ -9,17 +9,27 @@ public class KimController : MonoBehaviour
     private float movingDirection = 0f;
     public float movingSpeed = 1f;
 
+    public float minX = -0.5f;
+    public float maxX = 4f;
+
     private Animator animator;
 
     private AudioSource audioSource;
     public AudioClip[] soundDesign;
     public AudioClip[] soundPouic;
+
+    public float jumpForce = 10f;
+    public float jumpAllowedY = 0.4f;
+    public GameObject shadow;
+    private float shadowY;
         
     // Start is called before the first frame update
     void Start()
     {
         animator = this.GetComponent<Animator>();
         audioSource = this.GetComponent<AudioSource>();
+
+        shadowY = shadow.transform.position.y;
     }
 
     // Update is called once per frame
@@ -44,16 +54,34 @@ public class KimController : MonoBehaviour
                 moving = true;
                 movingDirection = 1f;
             }
+
+            if (Input.GetKeyDown("up") && transform.position.y <= jumpAllowedY) {
+                GetComponent<Rigidbody>().AddForce(0f, 10f, 0f);
+            }
         }
 
         UpdatePosition();
         UpdateAnimator();
+        UpdateShadow();
+    }
+
+    private void UpdateShadow() {
+        if (shadow.transform.position.y != shadowY) {
+            Vector3 shadowPos = shadow.transform.position;
+            shadowPos.y = shadowY;
+            shadow.transform.position = shadowPos;
+        }
     }
 
     private void UpdatePosition()
     {
         if (moving)
             transform.Translate(new Vector3(Time.deltaTime * movingDirection * movingSpeed, 0f, 0f));
+
+        // Clamp the player's position
+        Vector3 pos = transform.position;
+        pos.x = Mathf.Clamp(pos.x, minX, maxX);
+        transform.position = pos;
     }
 
     private void UpdateAnimator() {
@@ -91,9 +119,8 @@ public class KimController : MonoBehaviour
         audioSource.PlayOneShot(soundPouic[clipIndex]);
     }
 
-
-
-    /*private void OnTriggerEnter(Collider other)
+    /*
+    private void OnTriggerEnter(Collider other)
     {
         Debug.Log("Kim enters " + other.gameObject.name);
     }
@@ -101,5 +128,6 @@ public class KimController : MonoBehaviour
     private void OnTriggerExit(Collider other)
     {
         Debug.Log("Kim exits " + other.gameObject.name);
-    }*/
+    }
+    */
 }
