@@ -812,6 +812,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: e6ff042ba556e4040ae2ad297398e847, type: 3}
   - {fileID: 8300000, guid: 98427b3c09c674370bde7662cd373f32, type: 3}
   jumpForce: 10
+  jumpAllowedY: 0.4
   shadow: {fileID: 422589063}
 --- !u!65 &372585652
 BoxCollider:
@@ -2378,7 +2379,7 @@ MonoBehaviour:
   camera: {fileID: 1983431658}
   dialog: {fileID: 2135371194}
   music: {fileID: 1922446251}
-  showIntro: 0
+  showIntro: 1
   intro: {fileID: 2105446883}
 --- !u!1 &1983431654
 GameObject:

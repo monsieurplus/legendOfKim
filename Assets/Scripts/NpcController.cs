@@ -61,7 +61,7 @@ public class NpcController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (action != NpcAction.None && reachable && Input.GetKey("space"))
+        if (action != NpcAction.None && reachable && Input.GetKeyDown("space"))
         {
             if (action == NpcAction.Talk && GetGame().dialog.IsAvailable() && !massaging)
             {

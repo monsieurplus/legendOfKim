@@ -32,7 +32,7 @@ public class IntroScreenController : MonoBehaviour
     }
 
     public void Show(UnityEvent callback) {
-        canvas.alpha = 1f;
+        GetComponent<CanvasGroup>().alpha = 1f;
         showStart = Time.time;
         introCallback = callback;
     }
