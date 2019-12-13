@@ -217,4 +217,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   acceleration: 500
-  lifeDuration: 2
+  lifeDuration: 0.75

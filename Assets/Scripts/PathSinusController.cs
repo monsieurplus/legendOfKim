@@ -6,6 +6,8 @@ public class PathSinusController : MonoBehaviour
 {
     public bool moving = true;
 
+    private Vector3 startPosition;
+
     public float xSpeed;
     public float xMin;
     public float xMax;
@@ -21,6 +23,7 @@ public class PathSinusController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        startPosition = this.transform.localPosition;
         yInit = this.transform.localPosition.y;
     }
 
@@ -33,17 +36,17 @@ public class PathSinusController : MonoBehaviour
 
     private void UpdateMovement() {
         Vector3 position = Vector3.zero;
-        position.y = yInit;
+        position.y = startPosition.y;
 
         if (xSpeed == 0f)
-            position.x = xMin;
+            position.x = startPosition.x;
         else
-            position.x = xMin + (Mathf.Sin(Time.time * xSpeed + xDelay)+1f)/2f * (xMax - xMin);
+            position.x = startPosition.x + (xMin + (Mathf.Sin(Time.time * xSpeed + xDelay)+1f)/2f * (xMax - xMin));
 
         if (zSpeed == 0f)
-            position.z = zMin;
+            position.z = startPosition.z;
         else
-            position.z = (zMin + Mathf.Sin(Time.time * zSpeed + zDelay)+1f)/2f * (zMax - zMin);
+            position.z = startPosition.z + (zMin + Mathf.Sin(Time.time * zSpeed + zDelay)+1f)/2f * (zMax - zMin);
 
         this.transform.localPosition = position;
     }
