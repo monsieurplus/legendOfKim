@@ -48,6 +48,12 @@ public class NpcController : MonoBehaviour
         SpriteRenderer sr = this.GetComponent<SpriteRenderer>();
         sr.receiveShadows = true;
         sr.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.On;
+
+        if (talkIcon == null) {
+            Transform talkIconTransform = transform.Find("TalkIcon");
+            if (talkIconTransform != null)
+                talkIcon = talkIconTransform.gameObject;
+        }
     }
 
     private void OnTriggerEnter(Collider other) {
@@ -106,16 +112,20 @@ public class NpcController : MonoBehaviour
     }
 
     private void ShowTalk() {
-        talkIcon.SetActive(true);
+        if (talkIcon != null)
+            talkIcon.SetActive(true);
     }
     private void HideTalk() {
-        talkIcon.SetActive(false);
+        if (talkIcon != null)
+            talkIcon.SetActive(false);
     }
     private void ShowMassage() {
-        massageProgress.Show();
+        if (massageProgress != null)
+            massageProgress.Show();
     }
     private void HideMassage() {
-        massageProgress.Hide();
+        if (massageProgress != null)
+            massageProgress.Hide();
     }
 
     private void UpdateMassageProgress() {

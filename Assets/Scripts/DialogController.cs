@@ -106,7 +106,7 @@ public class DialogController : MonoBehaviour
         if (dialogCallback != null)
             callback = dialogCallback;
 
-        char[] configSep = {'-'};
+        char[] configSep = {'_'};
         string[] configs = dialogConfig.Split(configSep);
 
         char[] configPartSep = {'\n'};

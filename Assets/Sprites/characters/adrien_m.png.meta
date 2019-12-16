@@ -1,0 +1,4945 @@
+fileFormatVersion: 2
+guid: fa3054777cd4f4ef9a8f97d7cdac8bd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8784177235743963405
+    second: nico_d_0
+  - first:
+      213: 4949798691064283863
+    second: nico_d_1
+  - first:
+      213: -9151921088894157143
+    second: nico_d_2
+  - first:
+      213: 1716946696680803016
+    second: nico_d_3
+  - first:
+      213: -2000702869798688
+    second: nico_d_4
+  - first:
+      213: -3498460049495218526
+    second: nico_d_5
+  - first:
+      213: 5631601001647004552
+    second: nico_d_6
+  - first:
+      213: 4937699066885196111
+    second: nico_d_7
+  - first:
+      213: -3507476905573749221
+    second: nico_d_8
+  - first:
+      213: -95928935935231593
+    second: nico_d_9
+  - first:
+      213: 122309871618297268
+    second: nico_d_10
+  - first:
+      213: -3451408372408146606
+    second: nico_d_11
+  - first:
+      213: -1711499406205347121
+    second: nico_d_12
+  - first:
+      213: 4939467071869496017
+    second: nico_d_13
+  - first:
+      213: 987287550056687362
+    second: nico_d_14
+  - first:
+      213: -1220167832601466640
+    second: nico_d_15
+  - first:
+      213: -1302739497637476455
+    second: nico_d_16
+  - first:
+      213: 8967379804558756017
+    second: nico_d_17
+  - first:
+      213: -3303878264275605163
+    second: nico_d_18
+  - first:
+      213: -5175042233861513144
+    second: nico_d_19
+  - first:
+      213: 8919521336302937564
+    second: nico_d_20
+  - first:
+      213: 7622123919601546248
+    second: nico_d_21
+  - first:
+      213: -7295377656837273832
+    second: nico_d_22
+  - first:
+      213: 5255004890374720057
+    second: nico_d_23
+  - first:
+      213: 5309508817051347554
+    second: nico_d_24
+  - first:
+      213: 7766334779403921374
+    second: nico_d_25
+  - first:
+      213: 2327373124323527529
+    second: nico_d_26
+  - first:
+      213: -6726862309679806773
+    second: nico_d_27
+  - first:
+      213: 8135326246573755607
+    second: nico_d_28
+  - first:
+      213: -1917325772170770423
+    second: nico_d_29
+  - first:
+      213: 5352016661188675801
+    second: nico_d_30
+  - first:
+      213: -8711316639528417928
+    second: nico_d_31
+  - first:
+      213: 7445121586489006484
+    second: nico_d_32
+  - first:
+      213: 3298906842880339100
+    second: nico_d_33
+  - first:
+      213: 1670819507700558376
+    second: nico_d_34
+  - first:
+      213: 3671599294507862986
+    second: nico_d_35
+  - first:
+      213: 5796434556219975132
+    second: nico_d_36
+  - first:
+      213: -3473922462040216146
+    second: nico_d_37
+  - first:
+      213: 4508536409000188427
+    second: nico_d_38
+  - first:
+      213: 7625002762141215712
+    second: nico_d_39
+  - first:
+      213: -4049751570644747985
+    second: nico_d_40
+  - first:
+      213: -5552903336101621773
+    second: nico_d_41
+  - first:
+      213: 1552673372392396441
+    second: nico_d_42
+  - first:
+      213: 3482829757097337821
+    second: nico_d_43
+  - first:
+      213: -9062295617038453636
+    second: nico_d_44
+  - first:
+      213: -7355860080951283047
+    second: nico_d_45
+  - first:
+      213: 5051675336338507978
+    second: nico_d_46
+  - first:
+      213: -8470850199325801118
+    second: nico_d_47
+  - first:
+      213: -8627195005397162203
+    second: nico_d_48
+  - first:
+      213: -5279627147792674593
+    second: nico_d_49
+  - first:
+      213: -319896473881288895
+    second: nico_d_50
+  - first:
+      213: -1300784537743555218
+    second: nico_d_51
+  - first:
+      213: -5933243587062660016
+    second: nico_d_52
+  - first:
+      213: -6086211930249254324
+    second: nico_d_53
+  - first:
+      213: -6621080726243672612
+    second: nico_d_54
+  - first:
+      213: -8912718745194870558
+    second: nico_d_55
+  - first:
+      213: -1411010255298093976
+    second: nico_d_56
+  - first:
+      213: 5240443788979343843
+    second: nico_d_57
+  - first:
+      213: 7289001442443269191
+    second: nico_d_58
+  - first:
+      213: -2983839213732235946
+    second: nico_d_59
+  - first:
+      213: -5157959942420386782
+    second: nico_d_60
+  - first:
+      213: -1022438651720726209
+    second: nico_d_61
+  - first:
+      213: 9026243617723899124
+    second: nico_d_62
+  - first:
+      213: 8996853733246200167
+    second: nico_d_63
+  - first:
+      213: -948363434377637104
+    second: nico_d_64
+  - first:
+      213: 4612618606184383495
+    second: nico_d_65
+  - first:
+      213: 3687131989342820009
+    second: nico_d_66
+  - first:
+      213: -6356833744106345152
+    second: nico_d_67
+  - first:
+      213: 8247634768929400169
+    second: nico_d_68
+  - first:
+      213: -2331300617241279686
+    second: nico_d_69
+  - first:
+      213: -133338958128606501
+    second: nico_d_70
+  - first:
+      213: 7048636439796793068
+    second: nico_d_71
+  - first:
+      213: -1999956262549540882
+    second: nico_d_72
+  - first:
+      213: 3978269862901230215
+    second: nico_d_73
+  - first:
+      213: -8638352217196162947
+    second: nico_d_74
+  - first:
+      213: 8226711999568037866
+    second: nico_d_75
+  - first:
+      213: -6221657602179431366
+    second: nico_d_76
+  - first:
+      213: 268232081193384627
+    second: nico_d_77
+  - first:
+      213: 8771032829251184794
+    second: nico_d_78
+  - first:
+      213: -2090634057490627546
+    second: nico_d_79
+  - first:
+      213: -2940528106151788296
+    second: nico_d_80
+  - first:
+      213: -1245259234764108566
+    second: nico_d_81
+  - first:
+      213: -1164866896175794681
+    second: nico_d_82
+  - first:
+      213: 4850195095007543237
+    second: nico_d_83
+  - first:
+      213: -1026926289892502539
+    second: nico_d_84
+  - first:
+      213: -8716502604562261013
+    second: nico_d_85
+  - first:
+      213: 3498804348086226530
+    second: nico_d_86
+  - first:
+      213: -6866475455324534234
+    second: nico_d_87
+  - first:
+      213: -7402886799382009906
+    second: nico_d_88
+  - first:
+      213: -6420031844368926027
+    second: nico_d_89
+  - first:
+      213: -2342085153861534580
+    second: nico_d_90
+  - first:
+      213: -4849092513062317331
+    second: nico_d_91
+  - first:
+      213: -6224343410278226150
+    second: nico_d_92
+  - first:
+      213: 4419931236467939612
+    second: nico_d_93
+  - first:
+      213: 6438899618348550242
+    second: nico_d_94
+  - first:
+      213: -824169257532014176
+    second: nico_d_95
+  - first:
+      213: -5870466805651289544
+    second: nico_d_96
+  - first:
+      213: -2212984298288299079
+    second: nico_d_97
+  - first:
+      213: -1407317128472208512
+    second: nico_d_98
+  - first:
+      213: -1274512550338809249
+    second: nico_d_99
+  - first:
+      213: 5463165467357644820
+    second: nico_d_100
+  - first:
+      213: 6311971594427426019
+    second: nico_d_101
+  - first:
+      213: -7788155661601595987
+    second: nico_d_102
+  - first:
+      213: -3078895933467628715
+    second: nico_d_103
+  - first:
+      213: -7347190425645196032
+    second: nico_d_104
+  - first:
+      213: 7656610052220265538
+    second: nico_d_105
+  - first:
+      213: 6165893898540316479
+    second: nico_d_106
+  - first:
+      213: 6701963743944733607
+    second: nico_d_107
+  - first:
+      213: -6921503695703168426
+    second: nico_d_108
+  - first:
+      213: 4888928075793600730
+    second: nico_d_109
+  - first:
+      213: -7976895474278982566
+    second: nico_d_110
+  - first:
+      213: 1957483667510171360
+    second: nico_d_111
+  - first:
+      213: -190646761189290172
+    second: nico_d_112
+  - first:
+      213: 7263510523398718774
+    second: nico_d_113
+  - first:
+      213: -741499078901264518
+    second: nico_d_114
+  - first:
+      213: 1236636065355001330
+    second: nico_d_115
+  - first:
+      213: 1515057531667835576
+    second: nico_d_116
+  - first:
+      213: -5820760407282358559
+    second: nico_d_117
+  - first:
+      213: -776616700717302510
+    second: nico_d_118
+  - first:
+      213: 7624515401327777099
+    second: nico_d_119
+  - first:
+      213: -6114319950614765181
+    second: nico_d_120
+  - first:
+      213: 7846245514532089538
+    second: nico_d_121
+  - first:
+      213: -3369535303624360074
+    second: nico_d_122
+  - first:
+      213: 5786223533655524813
+    second: nico_d_123
+  - first:
+      213: -4939439339230647124
+    second: nico_d_124
+  - first:
+      213: 4155237678035306217
+    second: nico_d_125
+  - first:
+      213: 5229595863779062925
+    second: nico_d_126
+  - first:
+      213: -4374596103090941201
+    second: nico_d_127
+  - first:
+      213: -2351632877992827424
+    second: nico_d_128
+  - first:
+      213: 6945261720989693641
+    second: nico_d_129
+  - first:
+      213: -6039879228861060601
+    second: nico_d_130
+  - first:
+      213: -5090106807965743006
+    second: nico_d_131
+  - first:
+      213: 1552677490063769753
+    second: nico_d_132
+  - first:
+      213: -4663228160700484978
+    second: nico_d_133
+  - first:
+      213: 5476757003861582665
+    second: nico_d_134
+  - first:
+      213: -2332090549528677314
+    second: nico_d_135
+  - first:
+      213: -8033665938726573758
+    second: nico_d_136
+  - first:
+      213: -1975655864882001314
+    second: nico_d_137
+  - first:
+      213: 393819411805637766
+    second: nico_d_138
+  - first:
+      213: 654444256055408855
+    second: nico_d_139
+  - first:
+      213: 7082997833596851106
+    second: nico_d_140
+  - first:
+      213: 3099743728046172804
+    second: nico_d_141
+  - first:
+      213: 3240492566436386767
+    second: nico_d_142
+  - first:
+      213: -4152656636579745676
+    second: nico_d_143
+  - first:
+      213: 1116047740828647549
+    second: nico_d_144
+  - first:
+      213: 4648621428141335429
+    second: nico_d_145
+  - first:
+      213: 7802546054727929592
+    second: nico_d_146
+  - first:
+      213: 1990808406357044604
+    second: nico_d_147
+  - first:
+      213: 2058451176895169192
+    second: nico_d_148
+  - first:
+      213: -6640382143358617005
+    second: nico_d_149
+  - first:
+      213: -6965697838384245468
+    second: nico_d_150
+  - first:
+      213: -4671269665707311579
+    second: nico_d_151
+  - first:
+      213: -6370577924407346988
+    second: nico_d_152
+  - first:
+      213: -3267091219215725745
+    second: nico_d_153
+  - first:
+      213: 2517872499380011274
+    second: nico_d_154
+  - first:
+      213: -1313973401231298897
+    second: nico_d_155
+  - first:
+      213: 3269776761411254618
+    second: nico_d_156
+  - first:
+      213: 2875390218063527774
+    second: nico_d_157
+  - first:
+      213: 7369993579270275758
+    second: nico_d_158
+  - first:
+      213: -5938848230381290715
+    second: nico_d_159
+  - first:
+      213: 8750644363861844368
+    second: nico_d_160
+  - first:
+      213: 3130981478487245962
+    second: nico_d_161
+  - first:
+      213: -3555665987312228687
+    second: nico_d_162
+  - first:
+      213: 6890937697850661983
+    second: nico_d_163
+  - first:
+      213: 580324793710045730
+    second: nico_d_164
+  - first:
+      213: 5476298751751055696
+    second: nico_d_165
+  - first:
+      213: 8989540957007399250
+    second: nico_d_166
+  - first:
+      213: -7035943951712551559
+    second: nico_d_167
+  - first:
+      213: 1621759451694075994
+    second: nico_d_168
+  - first:
+      213: -5478976362809422875
+    second: nico_d_169
+  - first:
+      213: 5594177715098220448
+    second: nico_d_170
+  - first:
+      213: 1150175854630142719
+    second: nico_d_171
+  - first:
+      213: -6752652424286785593
+    second: nico_d_172
+  - first:
+      213: 9207192614812627322
+    second: nico_d_173
+  - first:
+      213: -8001832729576333776
+    second: nico_d_174
+  - first:
+      213: 9189907635165735307
+    second: nico_d_175
+  - first:
+      213: -3260146300712044967
+    second: nico_d_176
+  - first:
+      213: 5284665958792281058
+    second: nico_d_177
+  - first:
+      213: -5688891668581889325
+    second: adrien_m_0
+  - first:
+      213: 6623519727655084985
+    second: adrien_m_1
+  - first:
+      213: 4681629120188875056
+    second: adrien_m_2
+  - first:
+      213: -3811829911417339393
+    second: adrien_m_3
+  - first:
+      213: 1123685972410221882
+    second: adrien_m_4
+  - first:
+      213: 3254689898029830130
+    second: adrien_m_5
+  - first:
+      213: -368003679988422136
+    second: adrien_m_6
+  - first:
+      213: -8882765817118662126
+    second: adrien_m_7
+  - first:
+      213: 704233026414456207
+    second: adrien_m_8
+  - first:
+      213: -8450321233414524581
+    second: adrien_m_9
+  - first:
+      213: 8551268449182605052
+    second: adrien_m_10
+  - first:
+      213: -9157013843584149131
+    second: adrien_m_11
+  - first:
+      213: 5470125839779043552
+    second: adrien_m_12
+  - first:
+      213: 7992835657577008118
+    second: adrien_m_13
+  - first:
+      213: 7582131794597914170
+    second: adrien_m_14
+  - first:
+      213: 4416830933384501824
+    second: adrien_m_15
+  - first:
+      213: 7991598218936408163
+    second: adrien_m_16
+  - first:
+      213: -4695833385771727980
+    second: adrien_m_17
+  - first:
+      213: -2400011994093970477
+    second: adrien_m_18
+  - first:
+      213: 3703437905569985607
+    second: adrien_m_19
+  - first:
+      213: -3013792551421870416
+    second: adrien_m_20
+  - first:
+      213: 2373836734665544848
+    second: adrien_m_21
+  - first:
+      213: -6102680713363461202
+    second: adrien_m_22
+  - first:
+      213: 6860730723388957784
+    second: adrien_m_23
+  - first:
+      213: -6608231943035518956
+    second: adrien_m_24
+  - first:
+      213: 4189316754323733240
+    second: adrien_m_25
+  - first:
+      213: -1722320443270116955
+    second: adrien_m_26
+  - first:
+      213: 4048174145613828067
+    second: adrien_m_27
+  - first:
+      213: -5947825142199014569
+    second: adrien_m_28
+  - first:
+      213: -3453283235225602872
+    second: adrien_m_29
+  - first:
+      213: -1991900046301734963
+    second: adrien_m_30
+  - first:
+      213: -1671284902961340708
+    second: adrien_m_31
+  - first:
+      213: 355456771909449037
+    second: adrien_m_32
+  - first:
+      213: 6322805364794124157
+    second: adrien_m_33
+  - first:
+      213: 6337843967174406424
+    second: adrien_m_34
+  - first:
+      213: -5564001474089718186
+    second: adrien_m_35
+  - first:
+      213: -466732104329145515
+    second: adrien_m_36
+  - first:
+      213: 1480745158763804255
+    second: adrien_m_37
+  - first:
+      213: -4778287181106021639
+    second: adrien_m_38
+  - first:
+      213: -1284995793693360369
+    second: adrien_m_39
+  - first:
+      213: -1636374213570978437
+    second: adrien_m_40
+  - first:
+      213: -4090495321107620800
+    second: adrien_m_41
+  - first:
+      213: -8241523741173302280
+    second: adrien_m_42
+  - first:
+      213: 2907213812831029147
+    second: adrien_m_43
+  - first:
+      213: 6756618629458891026
+    second: adrien_m_44
+  - first:
+      213: -2244613932274965128
+    second: adrien_m_45
+  - first:
+      213: -5881594987380102587
+    second: adrien_m_46
+  - first:
+      213: 7202807214021963610
+    second: adrien_m_47
+  - first:
+      213: -3113298220750702550
+    second: adrien_m_48
+  - first:
+      213: -3689973773505243243
+    second: adrien_m_49
+  - first:
+      213: -4218463337850250719
+    second: adrien_m_50
+  - first:
+      213: 7114956372314555652
+    second: adrien_m_51
+  - first:
+      213: -1907677560149135496
+    second: adrien_m_52
+  - first:
+      213: -4436646252621501092
+    second: adrien_m_53
+  - first:
+      213: 6081643083800377493
+    second: adrien_m_54
+  - first:
+      213: -8476392897975723067
+    second: adrien_m_55
+  - first:
+      213: -3063781835082808520
+    second: adrien_m_56
+  - first:
+      213: -4649737166856085230
+    second: adrien_m_57
+  - first:
+      213: -1058063052215004397
+    second: adrien_m_58
+  - first:
+      213: 6549613016956145471
+    second: adrien_m_59
+  - first:
+      213: 4286756548749060605
+    second: adrien_m_60
+  - first:
+      213: -6502603923081703605
+    second: adrien_m_61
+  - first:
+      213: -6763470846209113684
+    second: adrien_m_62
+  - first:
+      213: -2079299389815356292
+    second: adrien_m_63
+  - first:
+      213: 4115473331472742672
+    second: adrien_m_64
+  - first:
+      213: 173094717406579992
+    second: adrien_m_65
+  - first:
+      213: 4892776743410253268
+    second: adrien_m_66
+  - first:
+      213: -2685555690227559841
+    second: adrien_m_67
+  - first:
+      213: -4192285451295275633
+    second: adrien_m_68
+  - first:
+      213: -2786897282466319746
+    second: adrien_m_69
+  - first:
+      213: 1873502744721510747
+    second: adrien_m_70
+  - first:
+      213: -7060680435126630041
+    second: adrien_m_71
+  - first:
+      213: 756049817799893139
+    second: adrien_m_72
+  - first:
+      213: -793393871312341892
+    second: adrien_m_73
+  - first:
+      213: 3383305659618773418
+    second: adrien_m_74
+  - first:
+      213: 6476149491600789341
+    second: adrien_m_75
+  - first:
+      213: 3814041058678514407
+    second: adrien_m_76
+  - first:
+      213: 767553069414691849
+    second: adrien_m_77
+  - first:
+      213: 905006494774885959
+    second: adrien_m_78
+  - first:
+      213: 6734130870592684852
+    second: adrien_m_79
+  - first:
+      213: -4274690365150963147
+    second: adrien_m_80
+  - first:
+      213: -6983899833043862912
+    second: adrien_m_81
+  - first:
+      213: 7084809546798699908
+    second: adrien_m_82
+  - first:
+      213: 7283524191337061152
+    second: adrien_m_83
+  - first:
+      213: 7344679905950773346
+    second: adrien_m_84
+  - first:
+      213: -4755343499261422738
+    second: adrien_m_85
+  - first:
+      213: -8203059667254926054
+    second: adrien_m_86
+  - first:
+      213: 4705032017538288451
+    second: adrien_m_87
+  - first:
+      213: -7527696169447623371
+    second: adrien_m_88
+  - first:
+      213: 7888661417026623249
+    second: adrien_m_89
+  - first:
+      213: -3291227600456045873
+    second: adrien_m_90
+  - first:
+      213: -4259809822328758846
+    second: adrien_m_91
+  - first:
+      213: 2193112445626523402
+    second: adrien_m_92
+  - first:
+      213: 2373304875225289168
+    second: adrien_m_93
+  - first:
+      213: -3448155352890816026
+    second: adrien_m_94
+  - first:
+      213: -857011251960693296
+    second: adrien_m_95
+  - first:
+      213: 6856109105630760842
+    second: adrien_m_96
+  - first:
+      213: -1471471207640058813
+    second: adrien_m_97
+  - first:
+      213: -3605703477414361581
+    second: adrien_m_98
+  - first:
+      213: -3556525922654208566
+    second: adrien_m_99
+  - first:
+      213: -1078786482974174295
+    second: adrien_m_100
+  - first:
+      213: -7404497147612245798
+    second: adrien_m_101
+  - first:
+      213: -7301200531485365844
+    second: adrien_m_102
+  - first:
+      213: 7054141096247295296
+    second: adrien_m_103
+  - first:
+      213: 5512479150514891333
+    second: adrien_m_104
+  - first:
+      213: -6086884095904966881
+    second: adrien_m_105
+  - first:
+      213: 5381270897306924645
+    second: adrien_m_106
+  - first:
+      213: 7234581429992531087
+    second: adrien_m_107
+  - first:
+      213: -9093199971122218164
+    second: adrien_m_108
+  - first:
+      213: 648133219503218590
+    second: adrien_m_109
+  - first:
+      213: -6727855992126936586
+    second: adrien_m_110
+  - first:
+      213: 6677531458275905182
+    second: adrien_m_111
+  - first:
+      213: 2375692268018181949
+    second: adrien_m_112
+  - first:
+      213: 6732168241144701377
+    second: adrien_m_113
+  - first:
+      213: 4683037234650476513
+    second: adrien_m_114
+  - first:
+      213: 4336268401728775508
+    second: adrien_m_115
+  - first:
+      213: -8422119859387716352
+    second: adrien_m_116
+  - first:
+      213: 7429624433485467331
+    second: adrien_m_117
+  - first:
+      213: 1641121734966861303
+    second: adrien_m_118
+  - first:
+      213: -8430708930096504126
+    second: adrien_m_119
+  - first:
+      213: 8320599977867778383
+    second: adrien_m_120
+  - first:
+      213: 8805156893735364051
+    second: adrien_m_121
+  - first:
+      213: -557980519955423894
+    second: adrien_m_122
+  - first:
+      213: 7514778354530281223
+    second: adrien_m_123
+  - first:
+      213: 1913427587556047285
+    second: adrien_m_124
+  - first:
+      213: -3568881127364143131
+    second: adrien_m_125
+  - first:
+      213: -3372424866670588363
+    second: adrien_m_126
+  - first:
+      213: -7311464722496316633
+    second: adrien_m_127
+  - first:
+      213: -6022894589718791958
+    second: adrien_m_128
+  - first:
+      213: 4585052850164543611
+    second: adrien_m_129
+  - first:
+      213: -4370107452681626914
+    second: adrien_m_130
+  - first:
+      213: -7855718753764566762
+    second: adrien_m_131
+  - first:
+      213: 4943210269632533754
+    second: adrien_m_132
+  - first:
+      213: -6300209636529599640
+    second: adrien_m_133
+  - first:
+      213: 9161529432572291628
+    second: adrien_m_134
+  - first:
+      213: 4191339731391985785
+    second: adrien_m_135
+  - first:
+      213: 8682917085377246836
+    second: adrien_m_136
+  - first:
+      213: 3129771132510730772
+    second: adrien_m_137
+  - first:
+      213: -4579442470083113459
+    second: adrien_m_138
+  - first:
+      213: -823507391534740054
+    second: adrien_m_139
+  - first:
+      213: 6554369729620422796
+    second: adrien_m_140
+  - first:
+      213: -5984109573220757091
+    second: adrien_m_141
+  - first:
+      213: 8039829308638970514
+    second: adrien_m_142
+  - first:
+      213: -1018418975403176094
+    second: adrien_m_143
+  - first:
+      213: 1956341231869726054
+    second: adrien_m_144
+  - first:
+      213: -7199252031790630659
+    second: adrien_m_145
+  - first:
+      213: 7913932863122379796
+    second: adrien_m_146
+  - first:
+      213: 3404464789580768684
+    second: adrien_m_147
+  - first:
+      213: 4429594170016548968
+    second: adrien_m_148
+  - first:
+      213: -6090152837817061180
+    second: adrien_m_149
+  - first:
+      213: -8424008058293588664
+    second: adrien_m_150
+  - first:
+      213: 1850005531307243452
+    second: adrien_m_151
+  - first:
+      213: 2949624442061808355
+    second: adrien_m_152
+  - first:
+      213: -7835872114001156917
+    second: adrien_m_153
+  - first:
+      213: -3984610164581678978
+    second: adrien_m_154
+  - first:
+      213: 9213712936415281906
+    second: adrien_m_155
+  - first:
+      213: -2840731391991258600
+    second: adrien_m_156
+  - first:
+      213: -5676531570076030512
+    second: adrien_m_157
+  - first:
+      213: 2690274420052793331
+    second: adrien_m_158
+  - first:
+      213: -2791428158767817365
+    second: adrien_m_159
+  - first:
+      213: 4117079015171179888
+    second: adrien_m_160
+  - first:
+      213: 1555744711604392928
+    second: adrien_m_161
+  - first:
+      213: 9070868838429774017
+    second: adrien_m_162
+  - first:
+      213: -5002130279704624137
+    second: adrien_m_163
+  - first:
+      213: 2385441248226372751
+    second: adrien_m_164
+  - first:
+      213: -7453453035214288645
+    second: adrien_m_165
+  - first:
+      213: 3667415987312669294
+    second: adrien_m_166
+  - first:
+      213: 1291446670118321113
+    second: adrien_m_167
+  - first:
+      213: -6301328447513402845
+    second: adrien_m_168
+  - first:
+      213: -1446786160376647960
+    second: adrien_m_169
+  - first:
+      213: -367416490030313954
+    second: adrien_m_170
+  - first:
+      213: 5675040475688029471
+    second: adrien_m_171
+  - first:
+      213: 2697664297529883916
+    second: adrien_m_172
+  - first:
+      213: -9040761216603591831
+    second: adrien_m_173
+  - first:
+      213: -3925731859271461671
+    second: adrien_m_174
+  - first:
+      213: 2601706279917585949
+    second: adrien_m_175
+  - first:
+      213: 1748814787497580374
+    second: adrien_m_176
+  - first:
+      213: 754315679376857156
+    second: adrien_m_177
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adrien_m_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20905c700938d46a3aa9791450cbe89d
+      internalID: -5688891668581889325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49737287fde6541c3b53e46ce40802c7
+      internalID: 6623519727655084985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f3d2c37aadb4e4cb01a4e7952faf8a
+      internalID: 4681629120188875056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a2e85e4287e43b389158fde881df34
+      internalID: -3811829911417339393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59880588b22544aebaeb778f8da33f8c
+      internalID: 1123685972410221882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aad888b9ebb462ca8def8bf859e369
+      internalID: 3254689898029830130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4cc8409d9b94993811aa93acc0205b
+      internalID: -368003679988422136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718ef580621d54871bc7e940d964cfb3
+      internalID: -8882765817118662126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9488a818ba39c4196ab1796921d13b6e
+      internalID: 704233026414456207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd90f380c3124ba8955de59dc235078
+      internalID: -8450321233414524581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f19969c19004644b3a3306e4a488ac
+      internalID: 8551268449182605052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea6a4f2c683847a082a1cb838e7e8db
+      internalID: -9157013843584149131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca1fb5197b0d496eb96cbfe44bca0b6
+      internalID: 5470125839779043552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a06d3369da74bb787f4c711767ffb6
+      internalID: 7992835657577008118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f05adb2fa444473d9ea53efd67656c5
+      internalID: 7582131794597914170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a7972fc23344cefa4a0c9e1964afdf
+      internalID: 4416830933384501824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a5e27dcabf34e31b2b3810cee3b2ee
+      internalID: 7991598218936408163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb946513a9b947a8b948f5ed05b9eff
+      internalID: -4695833385771727980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77906774b641c4a7290608a149c0be16
+      internalID: -2400011994093970477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02af8edcfc0843dfbc14c4524ac9d05
+      internalID: 3703437905569985607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653e9d5c911ac41678174ac58c532cd1
+      internalID: -3013792551421870416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113cf22e5df934b439941241252aa56c
+      internalID: 2373836734665544848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2af70480dd94219b80441ac8707f62
+      internalID: -6102680713363461202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ae0444410dd4347a3122e28155a8b3
+      internalID: 6860730723388957784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95ed652410034d8ea905494fc77d5ba
+      internalID: -6608231943035518956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab036861ddea4e64b051a0d4066a349
+      internalID: 4189316754323733240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a08999baae4e44b8b5c3005aecd2f
+      internalID: -1722320443270116955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e2b4ed9c90a429f83ecf70b4334db6
+      internalID: 4048174145613828067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3168742cf371e416ba8d3a910bb84848
+      internalID: -5947825142199014569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bfa235665aa485592d604117cfadcf
+      internalID: -3453283235225602872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da510de458bf4d968c37c980b5bfd20
+      internalID: -1991900046301734963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9739f90bbd54092a1bba35b874923c
+      internalID: -1671284902961340708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6895016a22574d4b9c5bef1b487cdda
+      internalID: 355456771909449037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55db11d3ecd9244c49c999f08c61f867
+      internalID: 6322805364794124157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f513e7dc4d86646faa625d628831e5c2
+      internalID: 6337843967174406424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f05358a1fcf1495cad0f6dd884a6a89
+      internalID: -5564001474089718186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc158e043514475a89e3adc0191f2ea
+      internalID: -466732104329145515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1b8a4a80e964431a08c12032301f52
+      internalID: 1480745158763804255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a1590f0de6a433bab9458afa773831
+      internalID: -4778287181106021639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e1dca2722ae40408ac130ddec5b581
+      internalID: -1284995793693360369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497631d95cc3e454e9b0019ffba8470c
+      internalID: -1636374213570978437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c21ed29aa594886bd2e1665e90e704
+      internalID: -4090495321107620800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26c419f78e4d4fac9adcaa1645e2a60
+      internalID: -8241523741173302280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69436330231b44e539b16dc7f028a1a7
+      internalID: 2907213812831029147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0da2a2f4964d456eaf5109a10c01afd
+      internalID: 6756618629458891026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5019f126cf38d415c8d86a4356ff77b5
+      internalID: -2244613932274965128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a10dacba5424a6cb0d66f1036140a2
+      internalID: -5881594987380102587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565d72d88a40b4fe390da77c6c80aa76
+      internalID: 7202807214021963610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2fbca0c995b4d11826a08dbfbf43c2
+      internalID: -3113298220750702550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2339bc9c2972c43819713f99bbb8bc8e
+      internalID: -3689973773505243243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a4c0413305a4486a946eb14e78282a
+      internalID: -4218463337850250719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf55eadee8f940d2845a37e033fe120
+      internalID: 7114956372314555652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84800cc125aa54b8397fc9d2eefb49f2
+      internalID: -1907677560149135496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05757476523eb42a38c04f21bc0df0fc
+      internalID: -4436646252621501092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ce1874bbaa941d7b5b1c959e2908c6
+      internalID: 6081643083800377493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63f32c9879894c15a2896cfb018390f
+      internalID: -8476392897975723067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd97c118364d4928adc638b9b651c26
+      internalID: -3063781835082808520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877f4a3385d00469abf736ef06ee7848
+      internalID: -4649737166856085230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d00c1679417b4f42a6c3799769e6022
+      internalID: -1058063052215004397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4a26c99929644958d2569af1e3d829
+      internalID: 6549613016956145471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c602c4f26d74a47bc5d2b380b9f2a3
+      internalID: 4286756548749060605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e837f9732644281ba0bb72e287e234
+      internalID: -6502603923081703605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0698f365be0ed467cba5e04f66e10fb1
+      internalID: -6763470846209113684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d92020eb168b4b1985f4c0925db2715
+      internalID: -2079299389815356292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8689f70e7b82455e8a576aba33c340f
+      internalID: 4115473331472742672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88fa0b46a7b04497b5de706ded9b62b
+      internalID: 173094717406579992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa8d054fcfb647f5ba2d5c7e7d6c400
+      internalID: 4892776743410253268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83440834139ca47ce8f2080254183be6
+      internalID: -2685555690227559841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc8e7e33851d4d489f3e3deb2abcd42
+      internalID: -4192285451295275633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6017264ac67945b8a5d643f454844f7
+      internalID: -2786897282466319746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef7eed02ffc4015a01812fdca631ef
+      internalID: 1873502744721510747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efb5747511644687a030078b1735440
+      internalID: -7060680435126630041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa1020a0311340da8faf59f749628e8
+      internalID: 756049817799893139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e816806813e4c95989089d7d6226c7
+      internalID: -793393871312341892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e815d2a722e134571879dba206e9fa26
+      internalID: 3383305659618773418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615f68525c4794de08cf2b93b9cfcbdf
+      internalID: 6476149491600789341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2fb047b7d7443c38a6800df4b4a8f8
+      internalID: 3814041058678514407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea867fe2adca442a925a9743e9cdf33
+      internalID: 767553069414691849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5667225a74d243068afc3d8ce9fa903
+      internalID: 905006494774885959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115dc55e6cd7e47db986825c752ec1bd
+      internalID: 6734130870592684852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f0db11bc3794cc7b80f0b72c618159
+      internalID: -4274690365150963147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2129c6431076c4f9ba3cbc9a6432064f
+      internalID: -6983899833043862912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6310df3731c4a0bb79cfea5f44fe00
+      internalID: 7084809546798699908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c3764434ce54d4d9694ab40f98354d
+      internalID: 7283524191337061152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab81bdebc284a83bb5d05fbcbf8f45
+      internalID: 7344679905950773346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b1f28594ff641ab8f883b9da70b689
+      internalID: -4755343499261422738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3d1f25792a84f56b00f1eb547420d1
+      internalID: -8203059667254926054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e868960a8594fbabf3b02530a53eb9
+      internalID: 4705032017538288451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287cc991f3c7e4b4e884ae0b59853da7
+      internalID: -7527696169447623371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a8820ecae604eec915b92a1a0c7007
+      internalID: 7888661417026623249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9569f9fa26b4847b9b9031688faa70
+      internalID: -3291227600456045873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7413bd8d2fff64ed48684bb892876bbd
+      internalID: -4259809822328758846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc06b3ecd0341df9722191faa7c1c7
+      internalID: 2193112445626523402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4291bcd1887ac4a80a1427b66efd8398
+      internalID: 2373304875225289168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b44a17ad48542579952fc3430fbdea
+      internalID: -3448155352890816026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77d22c5163c149c08f98b48f0613386
+      internalID: -857011251960693296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7646a66aff308479080ec44523a9420c
+      internalID: 6856109105630760842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e026fe5aa303344c2b7f202fd4f0c466
+      internalID: -1471471207640058813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fe1801964a446beb2046fc1e1143d9
+      internalID: -3605703477414361581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd60e34041364dc8af13e33fe591f7c
+      internalID: -3556525922654208566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b475f60d1b9a149dc9cac6414623b4ae
+      internalID: -1078786482974174295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a749c2e0b8019485598ad6d853732d79
+      internalID: -7404497147612245798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0756292e2416a4b5eb611bb5b8e2a047
+      internalID: -7301200531485365844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dc64280992044b4b1baabacfa76654
+      internalID: 7054141096247295296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e614184e4902b487b90966ca6295c538
+      internalID: 5512479150514891333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8168f1a6b304db793edffc5ce25131
+      internalID: -6086884095904966881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f633533d9c4f14f5b8a424757d5e8526
+      internalID: 5381270897306924645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df35efd137e4f4d19bba85d15767a180
+      internalID: 7234581429992531087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b107b6db6541ddb80617fd96485d1
+      internalID: -9093199971122218164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff0c9b2ce04342198201ee4503d444a
+      internalID: 648133219503218590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db499550807074f7e8b8b91a6e932f6a
+      internalID: -6727855992126936586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673e228f40d8e488e811d66c256c9921
+      internalID: 6677531458275905182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721725a147e104ab0b87e311cccb9d17
+      internalID: 2375692268018181949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04546f3743fed4e1d82f3cfce46492e9
+      internalID: 6732168241144701377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167f2cbeb053a4d0b8dba1ed231299ed
+      internalID: 4683037234650476513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0d30494ea314a17b8faf5f8c6d8cf5
+      internalID: 4336268401728775508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c2b0e933c87461c8e54d9f749f99bb
+      internalID: -8422119859387716352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a328cf6a88cc3448ba6031d6458d86f3
+      internalID: 7429624433485467331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ab5cf052423478087775ce28d679e7
+      internalID: 1641121734966861303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6e9f69093894384b7064ae0ff0aa6f
+      internalID: -8430708930096504126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6027d84aa844d48a4ce3c31d4aec9d
+      internalID: 8320599977867778383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f0956c771d416aa806cec89454db4
+      internalID: 8805156893735364051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98793a441ce64d46b3baec9d2d5a995
+      internalID: -557980519955423894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f042a23533ee8419a9d20f5e8d3ab637
+      internalID: 7514778354530281223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618b8cb0b81bc4662a10da452d643df5
+      internalID: 1913427587556047285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022667b9f458c4d49a025a8c9a12683a
+      internalID: -3568881127364143131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d28ab85e0c9489595de4a2d343952b
+      internalID: -3372424866670588363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a438f8592ae324842b8d8b38f8512e44
+      internalID: -7311464722496316633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c757f18fc60e54863ab1244a24884c1e
+      internalID: -6022894589718791958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02f7fe2912e94fa3b4e85714585027b
+      internalID: 4585052850164543611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980dccfa973b54bc494eac65b76d68f2
+      internalID: -4370107452681626914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25ddc0aa97fb4fdeadd48ba3facfc9e
+      internalID: -7855718753764566762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef77da8a0a804486a4fdddf9ae19574
+      internalID: 4943210269632533754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea82b233ab484e678de45f4b60b6df1
+      internalID: -6300209636529599640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f163cacfc824102a4e07cd63a197b1
+      internalID: 9161529432572291628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f88dc2b2127349c1810a2cfd731d941
+      internalID: 4191339731391985785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9f9d8d4230f4da2b46d8786e1a2bb5
+      internalID: 8682917085377246836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96aad7654143474d80cdbbd5a80227d
+      internalID: 3129771132510730772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2399b227cc0dc4ee88d8d7c85f81b4ef
+      internalID: -4579442470083113459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40de63f33308a44f68b3a79974771c82
+      internalID: -823507391534740054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95af460139d5b4c41a478cad8f8a595c
+      internalID: 6554369729620422796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a95692902cd245888fb062c361dfcd5
+      internalID: -5984109573220757091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f836f35e6ef824fefbdd12907bcda5bc
+      internalID: 8039829308638970514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb5d0e56f6b54a768d8b95dfdf337ff
+      internalID: -1018418975403176094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fd9d73bf66d48d894d0667ed6213df
+      internalID: 1956341231869726054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e5ab6327df4586b8d542f1bcec8c3
+      internalID: -7199252031790630659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18480e98219f24346809ab782594d039
+      internalID: 7913932863122379796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e2ae40f3a324c86930f506ffa230ac
+      internalID: 3404464789580768684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4b97b1962fe47d1bc37aab15685332
+      internalID: 4429594170016548968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6b2a6932d5c40b98fbff009695af23
+      internalID: -6090152837817061180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1d1f2112a3546d79fa4b9de2255291
+      internalID: -8424008058293588664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d09c3d07fba64f1b88231d998de215c
+      internalID: 1850005531307243452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84206711da052473a909e0debb70d5af
+      internalID: 2949624442061808355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03339e0e080a1414ca1397c48b2b5192
+      internalID: -7835872114001156917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f15ab5e11294324a3d3ec3b952e2e9
+      internalID: -3984610164581678978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ef710e17a04deaa0f2753635ddfdb
+      internalID: 9213712936415281906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc8d68c364594bee89ed759e3249f1e
+      internalID: -2840731391991258600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9ccbcdde31c434ab93fe98c1a94d83
+      internalID: -5676531570076030512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf35c1223ac434fd4821a73bca77551f
+      internalID: 2690274420052793331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e8bb6abc08143afa5100f622f902f1
+      internalID: -2791428158767817365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdfe022d5ead40ed863027dcdbf6815
+      internalID: 4117079015171179888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f148d9eb2b5a4565b2b042a9f03df94
+      internalID: 1555744711604392928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d7ead4da58d4857a30c7cb57ced982
+      internalID: 9070868838429774017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9717609b2646429b8c729b1abf9f704
+      internalID: -5002130279704624137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87775428b5c674cd48038868f54284c0
+      internalID: 2385441248226372751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b13e528b441428898d6be5a8686425
+      internalID: -7453453035214288645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecf1892e0d034d4b99f025408821bc0
+      internalID: 3667415987312669294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4bfe00a6dd842c1aeee058821cc4a3
+      internalID: 1291446670118321113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5e09699d2784314a5b6fb3a785402d
+      internalID: -6301328447513402845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff74adf09ecf34037947219a0b823410
+      internalID: -1446786160376647960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f563d7ec767b9479e9a0f06dbebf93bd
+      internalID: -367416490030313954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f43a66cb76d24faea317c0417cf25f1
+      internalID: 5675040475688029471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ac193a1b5ea4d71981c50a910eefc9
+      internalID: 2697664297529883916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5078c1061574fe5875d306b6145338
+      internalID: -9040761216603591831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3c96e8735d14291a63e188ebd54be6
+      internalID: -3925731859271461671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b65fcb4c0f024cc2aa05f8ff8fc5bb7
+      internalID: 2601706279917585949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58f3b9bc71d14be88f69131bb3287ac
+      internalID: 1748814787497580374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_m_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c372a8d2d794600b61616d1ad93de9
+      internalID: 754315679376857156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

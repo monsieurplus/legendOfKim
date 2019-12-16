@@ -1,0 +1,4945 @@
+fileFormatVersion: 2
+guid: 8b48d096f522149e3b1bdc8324ce1100
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8784177235743963405
+    second: nico_d_0
+  - first:
+      213: 4949798691064283863
+    second: nico_d_1
+  - first:
+      213: -9151921088894157143
+    second: nico_d_2
+  - first:
+      213: 1716946696680803016
+    second: nico_d_3
+  - first:
+      213: -2000702869798688
+    second: nico_d_4
+  - first:
+      213: -3498460049495218526
+    second: nico_d_5
+  - first:
+      213: 5631601001647004552
+    second: nico_d_6
+  - first:
+      213: 4937699066885196111
+    second: nico_d_7
+  - first:
+      213: -3507476905573749221
+    second: nico_d_8
+  - first:
+      213: -95928935935231593
+    second: nico_d_9
+  - first:
+      213: 122309871618297268
+    second: nico_d_10
+  - first:
+      213: -3451408372408146606
+    second: nico_d_11
+  - first:
+      213: -1711499406205347121
+    second: nico_d_12
+  - first:
+      213: 4939467071869496017
+    second: nico_d_13
+  - first:
+      213: 987287550056687362
+    second: nico_d_14
+  - first:
+      213: -1220167832601466640
+    second: nico_d_15
+  - first:
+      213: -1302739497637476455
+    second: nico_d_16
+  - first:
+      213: 8967379804558756017
+    second: nico_d_17
+  - first:
+      213: -3303878264275605163
+    second: nico_d_18
+  - first:
+      213: -5175042233861513144
+    second: nico_d_19
+  - first:
+      213: 8919521336302937564
+    second: nico_d_20
+  - first:
+      213: 7622123919601546248
+    second: nico_d_21
+  - first:
+      213: -7295377656837273832
+    second: nico_d_22
+  - first:
+      213: 5255004890374720057
+    second: nico_d_23
+  - first:
+      213: 5309508817051347554
+    second: nico_d_24
+  - first:
+      213: 7766334779403921374
+    second: nico_d_25
+  - first:
+      213: 2327373124323527529
+    second: nico_d_26
+  - first:
+      213: -6726862309679806773
+    second: nico_d_27
+  - first:
+      213: 8135326246573755607
+    second: nico_d_28
+  - first:
+      213: -1917325772170770423
+    second: nico_d_29
+  - first:
+      213: 5352016661188675801
+    second: nico_d_30
+  - first:
+      213: -8711316639528417928
+    second: nico_d_31
+  - first:
+      213: 7445121586489006484
+    second: nico_d_32
+  - first:
+      213: 3298906842880339100
+    second: nico_d_33
+  - first:
+      213: 1670819507700558376
+    second: nico_d_34
+  - first:
+      213: 3671599294507862986
+    second: nico_d_35
+  - first:
+      213: 5796434556219975132
+    second: nico_d_36
+  - first:
+      213: -3473922462040216146
+    second: nico_d_37
+  - first:
+      213: 4508536409000188427
+    second: nico_d_38
+  - first:
+      213: 7625002762141215712
+    second: nico_d_39
+  - first:
+      213: -4049751570644747985
+    second: nico_d_40
+  - first:
+      213: -5552903336101621773
+    second: nico_d_41
+  - first:
+      213: 1552673372392396441
+    second: nico_d_42
+  - first:
+      213: 3482829757097337821
+    second: nico_d_43
+  - first:
+      213: -9062295617038453636
+    second: nico_d_44
+  - first:
+      213: -7355860080951283047
+    second: nico_d_45
+  - first:
+      213: 5051675336338507978
+    second: nico_d_46
+  - first:
+      213: -8470850199325801118
+    second: nico_d_47
+  - first:
+      213: -8627195005397162203
+    second: nico_d_48
+  - first:
+      213: -5279627147792674593
+    second: nico_d_49
+  - first:
+      213: -319896473881288895
+    second: nico_d_50
+  - first:
+      213: -1300784537743555218
+    second: nico_d_51
+  - first:
+      213: -5933243587062660016
+    second: nico_d_52
+  - first:
+      213: -6086211930249254324
+    second: nico_d_53
+  - first:
+      213: -6621080726243672612
+    second: nico_d_54
+  - first:
+      213: -8912718745194870558
+    second: nico_d_55
+  - first:
+      213: -1411010255298093976
+    second: nico_d_56
+  - first:
+      213: 5240443788979343843
+    second: nico_d_57
+  - first:
+      213: 7289001442443269191
+    second: nico_d_58
+  - first:
+      213: -2983839213732235946
+    second: nico_d_59
+  - first:
+      213: -5157959942420386782
+    second: nico_d_60
+  - first:
+      213: -1022438651720726209
+    second: nico_d_61
+  - first:
+      213: 9026243617723899124
+    second: nico_d_62
+  - first:
+      213: 8996853733246200167
+    second: nico_d_63
+  - first:
+      213: -948363434377637104
+    second: nico_d_64
+  - first:
+      213: 4612618606184383495
+    second: nico_d_65
+  - first:
+      213: 3687131989342820009
+    second: nico_d_66
+  - first:
+      213: -6356833744106345152
+    second: nico_d_67
+  - first:
+      213: 8247634768929400169
+    second: nico_d_68
+  - first:
+      213: -2331300617241279686
+    second: nico_d_69
+  - first:
+      213: -133338958128606501
+    second: nico_d_70
+  - first:
+      213: 7048636439796793068
+    second: nico_d_71
+  - first:
+      213: -1999956262549540882
+    second: nico_d_72
+  - first:
+      213: 3978269862901230215
+    second: nico_d_73
+  - first:
+      213: -8638352217196162947
+    second: nico_d_74
+  - first:
+      213: 8226711999568037866
+    second: nico_d_75
+  - first:
+      213: -6221657602179431366
+    second: nico_d_76
+  - first:
+      213: 268232081193384627
+    second: nico_d_77
+  - first:
+      213: 8771032829251184794
+    second: nico_d_78
+  - first:
+      213: -2090634057490627546
+    second: nico_d_79
+  - first:
+      213: -2940528106151788296
+    second: nico_d_80
+  - first:
+      213: -1245259234764108566
+    second: nico_d_81
+  - first:
+      213: -1164866896175794681
+    second: nico_d_82
+  - first:
+      213: 4850195095007543237
+    second: nico_d_83
+  - first:
+      213: -1026926289892502539
+    second: nico_d_84
+  - first:
+      213: -8716502604562261013
+    second: nico_d_85
+  - first:
+      213: 3498804348086226530
+    second: nico_d_86
+  - first:
+      213: -6866475455324534234
+    second: nico_d_87
+  - first:
+      213: -7402886799382009906
+    second: nico_d_88
+  - first:
+      213: -6420031844368926027
+    second: nico_d_89
+  - first:
+      213: -2342085153861534580
+    second: nico_d_90
+  - first:
+      213: -4849092513062317331
+    second: nico_d_91
+  - first:
+      213: -6224343410278226150
+    second: nico_d_92
+  - first:
+      213: 4419931236467939612
+    second: nico_d_93
+  - first:
+      213: 6438899618348550242
+    second: nico_d_94
+  - first:
+      213: -824169257532014176
+    second: nico_d_95
+  - first:
+      213: -5870466805651289544
+    second: nico_d_96
+  - first:
+      213: -2212984298288299079
+    second: nico_d_97
+  - first:
+      213: -1407317128472208512
+    second: nico_d_98
+  - first:
+      213: -1274512550338809249
+    second: nico_d_99
+  - first:
+      213: 5463165467357644820
+    second: nico_d_100
+  - first:
+      213: 6311971594427426019
+    second: nico_d_101
+  - first:
+      213: -7788155661601595987
+    second: nico_d_102
+  - first:
+      213: -3078895933467628715
+    second: nico_d_103
+  - first:
+      213: -7347190425645196032
+    second: nico_d_104
+  - first:
+      213: 7656610052220265538
+    second: nico_d_105
+  - first:
+      213: 6165893898540316479
+    second: nico_d_106
+  - first:
+      213: 6701963743944733607
+    second: nico_d_107
+  - first:
+      213: -6921503695703168426
+    second: nico_d_108
+  - first:
+      213: 4888928075793600730
+    second: nico_d_109
+  - first:
+      213: -7976895474278982566
+    second: nico_d_110
+  - first:
+      213: 1957483667510171360
+    second: nico_d_111
+  - first:
+      213: -190646761189290172
+    second: nico_d_112
+  - first:
+      213: 7263510523398718774
+    second: nico_d_113
+  - first:
+      213: -741499078901264518
+    second: nico_d_114
+  - first:
+      213: 1236636065355001330
+    second: nico_d_115
+  - first:
+      213: 1515057531667835576
+    second: nico_d_116
+  - first:
+      213: -5820760407282358559
+    second: nico_d_117
+  - first:
+      213: -776616700717302510
+    second: nico_d_118
+  - first:
+      213: 7624515401327777099
+    second: nico_d_119
+  - first:
+      213: -6114319950614765181
+    second: nico_d_120
+  - first:
+      213: 7846245514532089538
+    second: nico_d_121
+  - first:
+      213: -3369535303624360074
+    second: nico_d_122
+  - first:
+      213: 5786223533655524813
+    second: nico_d_123
+  - first:
+      213: -4939439339230647124
+    second: nico_d_124
+  - first:
+      213: 4155237678035306217
+    second: nico_d_125
+  - first:
+      213: 5229595863779062925
+    second: nico_d_126
+  - first:
+      213: -4374596103090941201
+    second: nico_d_127
+  - first:
+      213: -2351632877992827424
+    second: nico_d_128
+  - first:
+      213: 6945261720989693641
+    second: nico_d_129
+  - first:
+      213: -6039879228861060601
+    second: nico_d_130
+  - first:
+      213: -5090106807965743006
+    second: nico_d_131
+  - first:
+      213: 1552677490063769753
+    second: nico_d_132
+  - first:
+      213: -4663228160700484978
+    second: nico_d_133
+  - first:
+      213: 5476757003861582665
+    second: nico_d_134
+  - first:
+      213: -2332090549528677314
+    second: nico_d_135
+  - first:
+      213: -8033665938726573758
+    second: nico_d_136
+  - first:
+      213: -1975655864882001314
+    second: nico_d_137
+  - first:
+      213: 393819411805637766
+    second: nico_d_138
+  - first:
+      213: 654444256055408855
+    second: nico_d_139
+  - first:
+      213: 7082997833596851106
+    second: nico_d_140
+  - first:
+      213: 3099743728046172804
+    second: nico_d_141
+  - first:
+      213: 3240492566436386767
+    second: nico_d_142
+  - first:
+      213: -4152656636579745676
+    second: nico_d_143
+  - first:
+      213: 1116047740828647549
+    second: nico_d_144
+  - first:
+      213: 4648621428141335429
+    second: nico_d_145
+  - first:
+      213: 7802546054727929592
+    second: nico_d_146
+  - first:
+      213: 1990808406357044604
+    second: nico_d_147
+  - first:
+      213: 2058451176895169192
+    second: nico_d_148
+  - first:
+      213: -6640382143358617005
+    second: nico_d_149
+  - first:
+      213: -6965697838384245468
+    second: nico_d_150
+  - first:
+      213: -4671269665707311579
+    second: nico_d_151
+  - first:
+      213: -6370577924407346988
+    second: nico_d_152
+  - first:
+      213: -3267091219215725745
+    second: nico_d_153
+  - first:
+      213: 2517872499380011274
+    second: nico_d_154
+  - first:
+      213: -1313973401231298897
+    second: nico_d_155
+  - first:
+      213: 3269776761411254618
+    second: nico_d_156
+  - first:
+      213: 2875390218063527774
+    second: nico_d_157
+  - first:
+      213: 7369993579270275758
+    second: nico_d_158
+  - first:
+      213: -5938848230381290715
+    second: nico_d_159
+  - first:
+      213: 8750644363861844368
+    second: nico_d_160
+  - first:
+      213: 3130981478487245962
+    second: nico_d_161
+  - first:
+      213: -3555665987312228687
+    second: nico_d_162
+  - first:
+      213: 6890937697850661983
+    second: nico_d_163
+  - first:
+      213: 580324793710045730
+    second: nico_d_164
+  - first:
+      213: 5476298751751055696
+    second: nico_d_165
+  - first:
+      213: 8989540957007399250
+    second: nico_d_166
+  - first:
+      213: -7035943951712551559
+    second: nico_d_167
+  - first:
+      213: 1621759451694075994
+    second: nico_d_168
+  - first:
+      213: -5478976362809422875
+    second: nico_d_169
+  - first:
+      213: 5594177715098220448
+    second: nico_d_170
+  - first:
+      213: 1150175854630142719
+    second: nico_d_171
+  - first:
+      213: -6752652424286785593
+    second: nico_d_172
+  - first:
+      213: 9207192614812627322
+    second: nico_d_173
+  - first:
+      213: -8001832729576333776
+    second: nico_d_174
+  - first:
+      213: 9189907635165735307
+    second: nico_d_175
+  - first:
+      213: -3260146300712044967
+    second: nico_d_176
+  - first:
+      213: 5284665958792281058
+    second: nico_d_177
+  - first:
+      213: -8940042455242516865
+    second: adrien_c_0
+  - first:
+      213: 2611541023138897035
+    second: adrien_c_1
+  - first:
+      213: 553744368147916140
+    second: adrien_c_2
+  - first:
+      213: -5338230181606295285
+    second: adrien_c_3
+  - first:
+      213: 4600823027067571144
+    second: adrien_c_4
+  - first:
+      213: -7570472426841692047
+    second: adrien_c_5
+  - first:
+      213: 8779239697175551022
+    second: adrien_c_6
+  - first:
+      213: 3746703994825331741
+    second: adrien_c_7
+  - first:
+      213: 5019898157350149322
+    second: adrien_c_8
+  - first:
+      213: 480132105862083407
+    second: adrien_c_9
+  - first:
+      213: 1261978965398961787
+    second: adrien_c_10
+  - first:
+      213: 5777436370381987579
+    second: adrien_c_11
+  - first:
+      213: -3513750364032295021
+    second: adrien_c_12
+  - first:
+      213: -6133232684305356810
+    second: adrien_c_13
+  - first:
+      213: -1261134632125360464
+    second: adrien_c_14
+  - first:
+      213: -7215054780112235178
+    second: adrien_c_15
+  - first:
+      213: 455796460557847612
+    second: adrien_c_16
+  - first:
+      213: -1689290922087653765
+    second: adrien_c_17
+  - first:
+      213: 6976218210629584444
+    second: adrien_c_18
+  - first:
+      213: 1168039330972676259
+    second: adrien_c_19
+  - first:
+      213: 3822542768838377926
+    second: adrien_c_20
+  - first:
+      213: -6007547028285398768
+    second: adrien_c_21
+  - first:
+      213: -7978955602624956539
+    second: adrien_c_22
+  - first:
+      213: -9038819655320463224
+    second: adrien_c_23
+  - first:
+      213: -2440458295289396778
+    second: adrien_c_24
+  - first:
+      213: -8938038406874511489
+    second: adrien_c_25
+  - first:
+      213: 8149911830678502660
+    second: adrien_c_26
+  - first:
+      213: 2678114881029174046
+    second: adrien_c_27
+  - first:
+      213: 3992612437168898142
+    second: adrien_c_28
+  - first:
+      213: -6558058332828081884
+    second: adrien_c_29
+  - first:
+      213: -5793987468408068030
+    second: adrien_c_30
+  - first:
+      213: 6352632466207888718
+    second: adrien_c_31
+  - first:
+      213: 2871337473247334985
+    second: adrien_c_32
+  - first:
+      213: 8549141717794340215
+    second: adrien_c_33
+  - first:
+      213: -1562834706712074413
+    second: adrien_c_34
+  - first:
+      213: 3150568357502136383
+    second: adrien_c_35
+  - first:
+      213: 7599951693745548928
+    second: adrien_c_36
+  - first:
+      213: -5834529108608941047
+    second: adrien_c_37
+  - first:
+      213: -3709622021517799102
+    second: adrien_c_38
+  - first:
+      213: 6137661665018009523
+    second: adrien_c_39
+  - first:
+      213: -5060762043181865125
+    second: adrien_c_40
+  - first:
+      213: -5736345298707141827
+    second: adrien_c_41
+  - first:
+      213: -7614864754792930511
+    second: adrien_c_42
+  - first:
+      213: 2903247275492094665
+    second: adrien_c_43
+  - first:
+      213: 5637715532903202527
+    second: adrien_c_44
+  - first:
+      213: 5391859983407833694
+    second: adrien_c_45
+  - first:
+      213: 5618183480643071519
+    second: adrien_c_46
+  - first:
+      213: 1374776350407836049
+    second: adrien_c_47
+  - first:
+      213: 9125034631245517324
+    second: adrien_c_48
+  - first:
+      213: -3294845079354249219
+    second: adrien_c_49
+  - first:
+      213: 2877791787798929781
+    second: adrien_c_50
+  - first:
+      213: -5166838222345335947
+    second: adrien_c_51
+  - first:
+      213: 8401852886222829578
+    second: adrien_c_52
+  - first:
+      213: 5079270135739045973
+    second: adrien_c_53
+  - first:
+      213: -8410387062819591492
+    second: adrien_c_54
+  - first:
+      213: 8454541077135448986
+    second: adrien_c_55
+  - first:
+      213: -5561060205054020904
+    second: adrien_c_56
+  - first:
+      213: 1652172762931091468
+    second: adrien_c_57
+  - first:
+      213: 1838803547292627487
+    second: adrien_c_58
+  - first:
+      213: -6688712053056075935
+    second: adrien_c_59
+  - first:
+      213: -5333883740878197262
+    second: adrien_c_60
+  - first:
+      213: 1741598150443629968
+    second: adrien_c_61
+  - first:
+      213: -5495094325912152759
+    second: adrien_c_62
+  - first:
+      213: 6197798967219556707
+    second: adrien_c_63
+  - first:
+      213: 7016145212175140774
+    second: adrien_c_64
+  - first:
+      213: -8059133222004032724
+    second: adrien_c_65
+  - first:
+      213: -4149950052928156858
+    second: adrien_c_66
+  - first:
+      213: -7341600140816015894
+    second: adrien_c_67
+  - first:
+      213: 3565421469192855408
+    second: adrien_c_68
+  - first:
+      213: 3224268624705749346
+    second: adrien_c_69
+  - first:
+      213: -2140903103500278582
+    second: adrien_c_70
+  - first:
+      213: -3076850755508193274
+    second: adrien_c_71
+  - first:
+      213: -955887722851088341
+    second: adrien_c_72
+  - first:
+      213: -7097531326282332605
+    second: adrien_c_73
+  - first:
+      213: 6358116154032378320
+    second: adrien_c_74
+  - first:
+      213: 2401503804914941529
+    second: adrien_c_75
+  - first:
+      213: -6166330489958865110
+    second: adrien_c_76
+  - first:
+      213: -3506096634458555585
+    second: adrien_c_77
+  - first:
+      213: -401030703332962638
+    second: adrien_c_78
+  - first:
+      213: 9006982666572237787
+    second: adrien_c_79
+  - first:
+      213: -1208223650032639777
+    second: adrien_c_80
+  - first:
+      213: 8688637635415215420
+    second: adrien_c_81
+  - first:
+      213: 2151298351832756702
+    second: adrien_c_82
+  - first:
+      213: -4263261124914761186
+    second: adrien_c_83
+  - first:
+      213: -624207350570049297
+    second: adrien_c_84
+  - first:
+      213: -8684096837643118526
+    second: adrien_c_85
+  - first:
+      213: -8287472587973047558
+    second: adrien_c_86
+  - first:
+      213: 2035731638724010812
+    second: adrien_c_87
+  - first:
+      213: -6338127931748319386
+    second: adrien_c_88
+  - first:
+      213: -5484109884168794281
+    second: adrien_c_89
+  - first:
+      213: 5626848416820132781
+    second: adrien_c_90
+  - first:
+      213: 2486231492521215888
+    second: adrien_c_91
+  - first:
+      213: -6994026865994383991
+    second: adrien_c_92
+  - first:
+      213: 6954979386151121207
+    second: adrien_c_93
+  - first:
+      213: -7964255714622672676
+    second: adrien_c_94
+  - first:
+      213: -7643350452098580433
+    second: adrien_c_95
+  - first:
+      213: -6584910728730483997
+    second: adrien_c_96
+  - first:
+      213: 2014409313607464239
+    second: adrien_c_97
+  - first:
+      213: 6845733577564074020
+    second: adrien_c_98
+  - first:
+      213: 6792102011736760731
+    second: adrien_c_99
+  - first:
+      213: -7717640173433197218
+    second: adrien_c_100
+  - first:
+      213: -2105070841902095323
+    second: adrien_c_101
+  - first:
+      213: -3370807449596662981
+    second: adrien_c_102
+  - first:
+      213: 7698688742905400988
+    second: adrien_c_103
+  - first:
+      213: -4954095195321794609
+    second: adrien_c_104
+  - first:
+      213: 2483497067116786883
+    second: adrien_c_105
+  - first:
+      213: 2188591240050337438
+    second: adrien_c_106
+  - first:
+      213: -5051865131034035255
+    second: adrien_c_107
+  - first:
+      213: 6519101589974689941
+    second: adrien_c_108
+  - first:
+      213: 2251826962181306299
+    second: adrien_c_109
+  - first:
+      213: -3197962527067377524
+    second: adrien_c_110
+  - first:
+      213: -4123425021201606434
+    second: adrien_c_111
+  - first:
+      213: 7269211561379181235
+    second: adrien_c_112
+  - first:
+      213: 5187544293960422891
+    second: adrien_c_113
+  - first:
+      213: 3991448458195614828
+    second: adrien_c_114
+  - first:
+      213: 270856254039807672
+    second: adrien_c_115
+  - first:
+      213: -7105640034652009635
+    second: adrien_c_116
+  - first:
+      213: -756812710017056746
+    second: adrien_c_117
+  - first:
+      213: 1601645002997589090
+    second: adrien_c_118
+  - first:
+      213: 7967456598273042803
+    second: adrien_c_119
+  - first:
+      213: 5408214808395927633
+    second: adrien_c_120
+  - first:
+      213: -2351833772227469346
+    second: adrien_c_121
+  - first:
+      213: 8773939986840886761
+    second: adrien_c_122
+  - first:
+      213: -4264904142489109059
+    second: adrien_c_123
+  - first:
+      213: 2078917823084223866
+    second: adrien_c_124
+  - first:
+      213: 2466436036501381131
+    second: adrien_c_125
+  - first:
+      213: 7445258332462748385
+    second: adrien_c_126
+  - first:
+      213: 5184454900541813036
+    second: adrien_c_127
+  - first:
+      213: 816729926501601230
+    second: adrien_c_128
+  - first:
+      213: 901390422133336574
+    second: adrien_c_129
+  - first:
+      213: 2354773210154954192
+    second: adrien_c_130
+  - first:
+      213: 759845576152318101
+    second: adrien_c_131
+  - first:
+      213: 3949804860191167409
+    second: adrien_c_132
+  - first:
+      213: -6642036611532559517
+    second: adrien_c_133
+  - first:
+      213: -7514107358840352307
+    second: adrien_c_134
+  - first:
+      213: 8189322448792223805
+    second: adrien_c_135
+  - first:
+      213: 2759921583329655289
+    second: adrien_c_136
+  - first:
+      213: -3260336771759235185
+    second: adrien_c_137
+  - first:
+      213: 961553823825027117
+    second: adrien_c_138
+  - first:
+      213: -5671570062788863482
+    second: adrien_c_139
+  - first:
+      213: -874337417289820308
+    second: adrien_c_140
+  - first:
+      213: 1597240792780120771
+    second: adrien_c_141
+  - first:
+      213: 6817091435567823325
+    second: adrien_c_142
+  - first:
+      213: 5932379637628855278
+    second: adrien_c_143
+  - first:
+      213: -9174658168481620736
+    second: adrien_c_144
+  - first:
+      213: -2592799089094316157
+    second: adrien_c_145
+  - first:
+      213: -6171198934441347041
+    second: adrien_c_146
+  - first:
+      213: 858396734078203147
+    second: adrien_c_147
+  - first:
+      213: -8760697627205579111
+    second: adrien_c_148
+  - first:
+      213: -5529704379286831032
+    second: adrien_c_149
+  - first:
+      213: -1944090646461548816
+    second: adrien_c_150
+  - first:
+      213: -3696156810385877074
+    second: adrien_c_151
+  - first:
+      213: 6334756851707789739
+    second: adrien_c_152
+  - first:
+      213: 1787611243301531210
+    second: adrien_c_153
+  - first:
+      213: 4948175936196973645
+    second: adrien_c_154
+  - first:
+      213: -1982262511998514955
+    second: adrien_c_155
+  - first:
+      213: 4122266402312793716
+    second: adrien_c_156
+  - first:
+      213: 6139169495032230462
+    second: adrien_c_157
+  - first:
+      213: -4267843572784679567
+    second: adrien_c_158
+  - first:
+      213: -3448445523269747502
+    second: adrien_c_159
+  - first:
+      213: 6889870843442197766
+    second: adrien_c_160
+  - first:
+      213: -3598554758229942833
+    second: adrien_c_161
+  - first:
+      213: -4129235041446493406
+    second: adrien_c_162
+  - first:
+      213: 2816060442795178056
+    second: adrien_c_163
+  - first:
+      213: -7591057181343804465
+    second: adrien_c_164
+  - first:
+      213: -4838361693756724133
+    second: adrien_c_165
+  - first:
+      213: -942234552434043037
+    second: adrien_c_166
+  - first:
+      213: 6250034150395415685
+    second: adrien_c_167
+  - first:
+      213: -7284642375784841817
+    second: adrien_c_168
+  - first:
+      213: 1529091529396709825
+    second: adrien_c_169
+  - first:
+      213: -5219355680655807677
+    second: adrien_c_170
+  - first:
+      213: -3845705448518592849
+    second: adrien_c_171
+  - first:
+      213: -1354072268452735790
+    second: adrien_c_172
+  - first:
+      213: -7027794100343624430
+    second: adrien_c_173
+  - first:
+      213: 7500376180472013520
+    second: adrien_c_174
+  - first:
+      213: -7539947803595911097
+    second: adrien_c_175
+  - first:
+      213: 6310471703720543662
+    second: adrien_c_176
+  - first:
+      213: 610820166332444767
+    second: adrien_c_177
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adrien_c_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a63500528e9c4deca62ce52b7a49fc6
+      internalID: -8940042455242516865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58552347575d24e1fae386b0da42167e
+      internalID: 2611541023138897035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0016e216034544cf835c2a8912e0114
+      internalID: 553744368147916140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aa8c936b16b4e689bd47f46014e925
+      internalID: -5338230181606295285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7b0d230a6c0426ea389ecb51f87c72
+      internalID: 4600823027067571144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261bebaf3da1844f4854f1d51d76c738
+      internalID: -7570472426841692047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c4c6adada2c48d8bc739489a2062cf
+      internalID: 8779239697175551022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54342f9b4a07d459cbe317054248d34e
+      internalID: 3746703994825331741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de02efae5e034e148f1b22c2876d6ff
+      internalID: 5019898157350149322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a871a3fb8aece458ca09cdc8092d7db0
+      internalID: 480132105862083407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af9dbb42099841249e66bb0ec91cfab
+      internalID: 1261978965398961787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4705c61fe0614dcf9f8b5bd36003ba6
+      internalID: 5777436370381987579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ee40b4e61c5409fbd98ea735d21506
+      internalID: -3513750364032295021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d564233fa5d9c414e9564d106ea78622
+      internalID: -6133232684305356810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ebc4b773ee24a5e9793dd2cc52c9d8
+      internalID: -1261134632125360464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6127bdd42f2e046a2a484087c4781835
+      internalID: -7215054780112235178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b92a43a92a4d9d853a8930aa097b8
+      internalID: 455796460557847612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c69abf99dcc4fcd91e093306f95f40
+      internalID: -1689290922087653765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb796ae1b96147bdaf099bb0384e5c7
+      internalID: 6976218210629584444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa607c91f57c94440aeae28a426e0596
+      internalID: 1168039330972676259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b33db2b9f9ba403dac035d992fe11e6
+      internalID: 3822542768838377926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d0eb279a9f142379c93d43b72419fb
+      internalID: -6007547028285398768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc9460761fc042b7ac690898daabb0a
+      internalID: -7978955602624956539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98893434c56ef4e39bce7fbe0d19c180
+      internalID: -9038819655320463224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4fbe7086a8048a9a10c90c4b0e78d1
+      internalID: -2440458295289396778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64858b708ffca4f0097741095f336b60
+      internalID: -8938038406874511489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed60112a1faac49608b2dd875f7c4832
+      internalID: 8149911830678502660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025098c0335664e84b208666163a4dc3
+      internalID: 2678114881029174046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193c78afc762b4585a781edf7dfde29b
+      internalID: 3992612437168898142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b95a22ed39ef43e2a995f2c9eabd558
+      internalID: -6558058332828081884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f58a6f54a2964768884407fcbeadc83
+      internalID: -5793987468408068030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee579a55a61840ada19fea608bb1c82
+      internalID: 6352632466207888718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f2d1e47360840ef878a51c1bb8ba54
+      internalID: 2871337473247334985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6168d5a84032747289980895010de052
+      internalID: 8549141717794340215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6e335b8f1ab4f08a4b820c74b7127c
+      internalID: -1562834706712074413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd181f248f73141b7a803eda79ac53dd
+      internalID: 3150568357502136383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af72ee25c004f5e9094158341cd5a0
+      internalID: 7599951693745548928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90809105e6c0546a6b061ca492387c2f
+      internalID: -5834529108608941047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c8cabfa183648bead9d5617354dace
+      internalID: -3709622021517799102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dd07361264a4842b3dc75942e22feb
+      internalID: 6137661665018009523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923aa90c1ee2747868a96b3c6a1b7972
+      internalID: -5060762043181865125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cde2663da0804b049ac9f3e29f1addf
+      internalID: -5736345298707141827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044bc735576e64c47b8d36eafb4cd658
+      internalID: -7614864754792930511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad55ab054644e4887ff5303b65dbc7
+      internalID: 2903247275492094665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dead25f4121904ae399bde4d02b26af2
+      internalID: 5637715532903202527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691de89c22c0043efbf9c90679be8f35
+      internalID: 5391859983407833694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e541097ca2d495c8bef8ff1fdf4d7f
+      internalID: 5618183480643071519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32358389cdd5c40d493002e9e135043b
+      internalID: 1374776350407836049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5821c7c2ad88242fc95086814d84ab66
+      internalID: 9125034631245517324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3b86ab0a45941e397f7742b24ccda6
+      internalID: -3294845079354249219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d25c7fd8f8a4f5c97818e2929c1109
+      internalID: 2877791787798929781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4486e73133314c94aec41a266314149
+      internalID: -5166838222345335947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad34795b2dee49a4b47f0539733fb0c
+      internalID: 8401852886222829578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fd17547690e4fb080b2378ff515659
+      internalID: 5079270135739045973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed18cc73b288044be87b87937cc4e8bd
+      internalID: -8410387062819591492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a31a948af9e4afe9d0d08c0eea52ae
+      internalID: 8454541077135448986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d39f2b60f8d45ba8628d465a89252c
+      internalID: -5561060205054020904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37d27c72c296402d962cee4bb13d860
+      internalID: 1652172762931091468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8718ee87b731448f5ad9bc4a27d0b95d
+      internalID: 1838803547292627487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff6be05446764edf915cf2a7c8e7b23
+      internalID: -6688712053056075935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc5617c991634ae0a31e444cdefc21e
+      internalID: -5333883740878197262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186baac4ce960479eba1a32b48dc5cb6
+      internalID: 1741598150443629968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ce8a23e3dc64e39a9654feb2b480fb
+      internalID: -5495094325912152759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad962e0cd4124ebc90e9207d6e6809b
+      internalID: 6197798967219556707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56db2c9a2d620467aa3d6383635769b6
+      internalID: 7016145212175140774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9594d7550586d4745adff741fea01650
+      internalID: -8059133222004032724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1b8dcb2092d4aefbbf04bc22451222
+      internalID: -4149950052928156858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b1081790d4f45e093eb2ad78b0b9cb
+      internalID: -7341600140816015894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3494fb90f4a014a75bbcffa4528ca6d1
+      internalID: 3565421469192855408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f16d7172de984d0c9ebd0d85e706896
+      internalID: 3224268624705749346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f824197b5f214b018e78bad3bafdc32
+      internalID: -2140903103500278582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2422d4dd4f2cc4cc9949f9219ea9d74b
+      internalID: -3076850755508193274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974d5b485a5594589a86f637d74ec8d9
+      internalID: -955887722851088341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6391cc53c6c7144bbb1fa103e3d00d44
+      internalID: -7097531326282332605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e31a5b2d1b9416e80cf4cf0fd122d8
+      internalID: 6358116154032378320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dc6f521e9414b1e8c7b472ce4f7b4c
+      internalID: 2401503804914941529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3593216909f34941a8fedf9ecf9d123
+      internalID: -6166330489958865110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0a47baeeffd49568ee6253c9f26df4
+      internalID: -3506096634458555585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a1715e7b462432bbc229982dd460ef
+      internalID: -401030703332962638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5174bbbbdb97647078bbbfa8de3a8b8c
+      internalID: 9006982666572237787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73b29b553004475fbd719c48ca904c2
+      internalID: -1208223650032639777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d131fdd42bbac4747824a895709b3534
+      internalID: 8688637635415215420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aae92699f38941e5a2820ad6e035c06
+      internalID: 2151298351832756702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3782b2beffe945c7808596061f5de26
+      internalID: -4263261124914761186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f648e12e0a4a48bc613055e9899b9
+      internalID: -624207350570049297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de7e7c1f503542eea9850982fcddc80
+      internalID: -8684096837643118526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc11212e86fc4f2bb067e8825a8340e
+      internalID: -8287472587973047558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de46242d897034ee28e5cfd7a96806b8
+      internalID: 2035731638724010812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e1e09ac051d4b0f96d27d2f88500b5
+      internalID: -6338127931748319386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dbdb508143b47cd844d65bd7c6a126
+      internalID: -5484109884168794281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c674a20349341bfb2ce8be829500a7
+      internalID: 5626848416820132781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a292fa58a74ed4fb08d7aaf773fab916
+      internalID: 2486231492521215888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb888eb7d4d554230ab26d2065f4f0ee
+      internalID: -6994026865994383991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74416a44b93b646e5a1c7de78668f86c
+      internalID: 6954979386151121207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7918ef3b607f41c7b12775bd35c07a3
+      internalID: -7964255714622672676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078b7851c8a1a457f83d26831a2e9c48
+      internalID: -7643350452098580433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35056a359549c481d90d767898271b1b
+      internalID: -6584910728730483997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9073427c2e2614f3fb391b9237c8cc87
+      internalID: 2014409313607464239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52783651cf1f4e08a29791393c874e6
+      internalID: 6845733577564074020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be34fe9fad4240db82128b703f44182
+      internalID: 6792102011736760731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353935e3e827f4b758b13f375e827e3c
+      internalID: -7717640173433197218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926750ce1151c4aac8ad449563d88fab
+      internalID: -2105070841902095323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26558315716aa40d5ac0d43531775f52
+      internalID: -3370807449596662981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ad4522b845482bbc67196979dcf6b
+      internalID: 7698688742905400988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecf92eeb04f040a18027e6c53f711de
+      internalID: -4954095195321794609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e68ed8abae3d42d785ad1068a45e73c
+      internalID: 2483497067116786883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c8738ce4564421a8d3495ecf4927fc
+      internalID: 2188591240050337438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48419aafda19e4ae0aa78e560f5856c5
+      internalID: -5051865131034035255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4e873e91397436d96fe589be493cb1
+      internalID: 6519101589974689941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3fc80a1939e4412ad1f18ab58eb6d0
+      internalID: 2251826962181306299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d669e6bb2931e45148e63409998e6bbd
+      internalID: -3197962527067377524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bfc9c1d10534bfc87ccc6e613e2be2
+      internalID: -4123425021201606434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a1d2f3924c24fdf823e9ba5e0cb3ca
+      internalID: 7269211561379181235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a2be6ec86074ce9b6ff775e93ad2b1
+      internalID: 5187544293960422891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80150ac034102403ab5ac76471fbfd66
+      internalID: 3991448458195614828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa84c8f0cc1b44dc94ee566aedd82d7
+      internalID: 270856254039807672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bacb004ff9a4e1a88f1522dc22b3e3
+      internalID: -7105640034652009635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01732223eadd3468991fab03febd4fdb
+      internalID: -756812710017056746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd43af47eeddc4fa2a412535cacf8769
+      internalID: 1601645002997589090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e92dd4eee42a45bd94c621b3a862572
+      internalID: 7967456598273042803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c92fd450c484747bc90cb48d4b24fa
+      internalID: 5408214808395927633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a8f45e1975c4e7d80d04d3be9bfbca
+      internalID: -2351833772227469346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b5dad86a134a8887f21bd6e29db0d
+      internalID: 8773939986840886761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be34fe419b2c4504942abd81b0f425a
+      internalID: -4264904142489109059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ebe451e5f2749fb868d1a8c54fac12
+      internalID: 2078917823084223866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bf756cf5406480eb93eac536476f2f
+      internalID: 2466436036501381131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e272338dd9324436bb0b6defde3ef897
+      internalID: 7445258332462748385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497d54ec1b8a54caf97fed965573a8e1
+      internalID: 5184454900541813036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070b6d246fadb44f3a92d23b43de5eed
+      internalID: 816729926501601230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dbf3c639d91425f8824e829b9bc734
+      internalID: 901390422133336574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9236354a727be4b089f3c1aa8f69b4e6
+      internalID: 2354773210154954192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ffe37c7d7d848788e66939c3250d6f
+      internalID: 759845576152318101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad900ff92f64f43be93c8f00e2c3da21
+      internalID: 3949804860191167409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d973d32fd42f4413b9e0c5390abb6952
+      internalID: -6642036611532559517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1d2a7b70b81451aa9b0b54be2ccf99
+      internalID: -7514107358840352307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6118c0be22a2548b1a28635f037fe296
+      internalID: 8189322448792223805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd80dd3a2d793492596f1101a205caee
+      internalID: 2759921583329655289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09e4285b6d59478692744251addc45d
+      internalID: -3260336771759235185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f9de1210cb845ca9a04e732e7624dc
+      internalID: 961553823825027117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4ea64eacf8a40fc9abe150b45b1d39
+      internalID: -5671570062788863482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab07e0014f78458689f12a0f9409a32
+      internalID: -874337417289820308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7afba065f7641f7bd4e4a12266aaae
+      internalID: 1597240792780120771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a72fcc4e7fb4da7ab74b74000d6b0d
+      internalID: 6817091435567823325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d1a25c4d4e842849bb316f36807a4c
+      internalID: 5932379637628855278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63aa5abbd3f9484c912191a9fc8d76c
+      internalID: -9174658168481620736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5183678d7735b4a07ab24b1e03294158
+      internalID: -2592799089094316157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1d8bc92fc794804967d20d8fa12081
+      internalID: -6171198934441347041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9638d84e6ccd740a78f83f09531bd613
+      internalID: 858396734078203147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2246ffc980a940fb858b5cbd3247eee
+      internalID: -8760697627205579111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2bc8295ca774ef5ac568a74d95c16a
+      internalID: -5529704379286831032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf1a37e7bde4ce8b0c5f6b94f134bb
+      internalID: -1944090646461548816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837addd709d04f09adf09393d5d47da
+      internalID: -3696156810385877074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e03caf6a25f43c999a5bd723ca84e1
+      internalID: 6334756851707789739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b9b1a0892414aeca17f72aa01c124c
+      internalID: 1787611243301531210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ebf2196ee614e9d9c4f43b4c98210c
+      internalID: 4948175936196973645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6629ac8bae4dc423ca71c42b9819d24b
+      internalID: -1982262511998514955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7314d200f86144b7caee9a667b117ac7
+      internalID: 4122266402312793716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b67725964f4996a29ea73a6cd0a0d
+      internalID: 6139169495032230462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bf119f9426340ef8562fc8ad3c6e77
+      internalID: -4267843572784679567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbe1f575294a45a386225112320fc3c
+      internalID: -3448445523269747502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257279f34f59f448b8445d5b6d3ecba7
+      internalID: 6889870843442197766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672919ed116f04afc9f9200ec52a1fc3
+      internalID: -3598554758229942833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f036f03c8214f079c2ecf14f08cac8
+      internalID: -4129235041446493406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8e03729c2034f5c80b531f057f9b9b
+      internalID: 2816060442795178056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154be6d8eac334aad8c7689852969f42
+      internalID: -7591057181343804465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fa6bcac0c554caf85e81ee6ee184d1
+      internalID: -4838361693756724133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f631743fbd1d4abfaebb2818e311eff
+      internalID: -942234552434043037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa5974fdff524196b66ad51b8c11454
+      internalID: 6250034150395415685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35db011866ed428b9459622d36b106b
+      internalID: -7284642375784841817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8b793999f3740d49ab86a193356d4c
+      internalID: 1529091529396709825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee76dce33291e4f71b4095739e69cd6a
+      internalID: -5219355680655807677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8949a8a40aa409e9cbf73ada1cdbdc
+      internalID: -3845705448518592849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07010dbcfbb874eff9ec05392dbe0ea2
+      internalID: -1354072268452735790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4eac20428154bdfaa0becc18ea37b5
+      internalID: -7027794100343624430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3b9cf05c614415eaeb17749b2bcb62
+      internalID: 7500376180472013520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9567bae8cda443f497b11d2cf31c860
+      internalID: -7539947803595911097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5163e0f5a12df4f7fb57db62f787baa8
+      internalID: 6310471703720543662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adrien_c_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a7c29a3e004a9e98248407935af33
+      internalID: 610820166332444767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

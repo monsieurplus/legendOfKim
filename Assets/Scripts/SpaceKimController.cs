@@ -14,7 +14,7 @@ public class SpaceKimController : MonoBehaviour
     public float movingSpeedZ = 2f;
     public float movingDirectionZ = 0f;
 
-    private bool controllable = true;
+    public bool controllable = true;
     private bool moving = false;
 
     private AudioSource audioSource;
@@ -62,9 +62,9 @@ public class SpaceKimController : MonoBehaviour
                 proj.transform.position = transform.position - new Vector3(0f, 0f, 0.1f);
                 PlayRandomDesign();
             }
-        }
 
-        UpdatePosition();
+            UpdatePosition();
+        }
     }
 
     private void UpdatePosition() {
@@ -77,6 +77,7 @@ public class SpaceKimController : MonoBehaviour
                 )
             );
 
+            // Clamp the player's position
             Vector3 pos = transform.position;
             pos.x = Mathf.Clamp(pos.x, minX, maxX);
             pos.z = Mathf.Clamp(pos.z, minZ, maxZ);
