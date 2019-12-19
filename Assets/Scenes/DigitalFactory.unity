@@ -3899,7 +3899,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 372585647}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.238, y: 0.3, z: -0.044}
+  m_LocalPosition: {x: 0, y: 0.3, z: -0.044}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 422589064}
@@ -8559,10 +8559,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Level 1
+  m_text: 'Level X
 
 
-    Mystery in the iLab'
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e6e62e7ab25034921ba5edf032c6714b, type: 2}
   m_sharedMaterial: {fileID: 1887521822925504425, guid: e6e62e7ab25034921ba5edf032c6714b,
@@ -8608,7 +8608,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 9
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -8632,12 +8632,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: -14.0560255, w: 0}
   m_textInfo:
     textComponent: {fileID: 962519043}
-    characterCount: 28
+    characterCount: 9
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 6
+    spaceCount: 3
+    wordCount: 2
     linkCount: 0
-    lineCount: 4
+    lineCount: 2
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -16458,7 +16458,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56b32f9d60623491ba141b9f2cdf81ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  showDuration: 0.1
+  showDuration: 1
   hideDuration: 1
   hideStep: 10
 --- !u!1 &2135371192

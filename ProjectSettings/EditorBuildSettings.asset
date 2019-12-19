@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Texas.unity
     guid: 2867ffe40ebe4444eba10ead876ed342
+  - enabled: 1
+    path: Assets/Scenes/DigitalFactory.unity
+    guid: 399bd5d2ecf8144fcb2db248df7b31e2
   m_configObjects: {}
