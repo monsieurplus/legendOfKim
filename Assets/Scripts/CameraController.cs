@@ -9,6 +9,7 @@ public class CameraController : MonoBehaviour
     private bool follow = false;
     private GameObject followObject;
     public Vector3 followDelta;
+    public float followSpeed = 1.5f;
 
     public float minX = 0f;
     public float maxX = 10f;
@@ -48,7 +49,7 @@ public class CameraController : MonoBehaviour
         Vector3 cameraPosition = this.transform.position;
 
         Vector3 delta = targetPosition - cameraPosition;
-        cameraPosition += delta * Mathf.Clamp01(Time.deltaTime) * 1.5f;
+        cameraPosition += delta * Mathf.Clamp01(Time.deltaTime) * followSpeed;
 
         this.SetPosition(cameraPosition);
     }

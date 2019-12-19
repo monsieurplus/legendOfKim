@@ -2817,7 +2817,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   action: 1
   talkIcon: {fileID: 0}
-  talkConfig: "Saad\nTu devrais aller parler au type chelou pr\xE8s du bar"
+  talkConfig: "Kim\nSalut mec, t'as vraiment le groove, j'suis fan !\n_\nSaad\nMerci
+    p'tit\n_\nSaad\nTu devrais aller parler au type chelou pr\xE8s du bar"
   talkCallback:
     m_PersistentCalls:
       m_Calls: []
@@ -5591,6 +5592,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   followDelta: {x: 0, y: -10.5, z: 35.9}
+  followSpeed: 1.5
   minX: 0.97
   maxX: 8.3
 --- !u!1 &1994082359

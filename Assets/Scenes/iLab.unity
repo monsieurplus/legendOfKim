@@ -714,7 +714,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &185422508
 SpriteRenderer:
@@ -1186,9 +1186,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   action: 1
   talkIcon: {fileID: 0}
-  talkConfig: 'Bernard
-
-    Oh le Toulousaing, il est ton acceng ?!'
+  talkConfig: "Bernard\nOh le Toulousaing, il est o\xF9 ton acceng ?!"
   talkCallback:
     m_PersistentCalls:
       m_Calls: []
@@ -1216,7 +1214,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &216957976
 SpriteRenderer:
@@ -1507,7 +1505,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &322058936
 SpriteRenderer:
@@ -1884,7 +1882,7 @@ MonoBehaviour:
   controllable: 1
   movingSpeed: 1
   minX: -0.5
-  maxX: 100
+  maxX: 19
   soundDesign:
   - {fileID: 8300000, guid: aa19c6cc847ef4bfe965ff1ca866faec, type: 3}
   - {fileID: 8300000, guid: 2f800766b4d3f4541bb4b2cdc6db93ff, type: 3}
@@ -2256,7 +2254,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 396224590}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.86, y: 0.3, z: 0.411}
+  m_LocalPosition: {x: 15.791, y: 0.3, z: 0.411}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2012778011}
@@ -2276,9 +2274,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 071c7e202695a4494b28f6cea090bac2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  action: 0
+  action: 1
   talkIcon: {fileID: 0}
-  talkConfig: 
+  talkConfig: "Kim\nBienvenue, tu as 100% de ma confiance\n_\nKim\nIl ne te reste
+    plus qu'\xE0 ne pas la perdre\n_\nNico\n* ... no pressure *"
   talkCallback:
     m_PersistentCalls:
       m_Calls: []
@@ -2306,7 +2305,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &396224594
 SpriteRenderer:
@@ -4239,7 +4238,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &957631381
 SpriteRenderer:
@@ -4500,7 +4499,8 @@ MonoBehaviour:
   talkIcon: {fileID: 0}
   talkConfig: "Kim\nBonjour je m'appelle Kim et je suis l\xE0 pour l'entretien\n_\nSaad\nOui
     bienvenue, tu veux une bi\xE8re ?\n_\nKim\nHein ?!\n_\nSaad\nOui, une bi\xE8re.
-    Tu en veux une ?\n_\nKim\nEuh... C'est un test ?"
+    Tu en veux une ?\n_\nKim\nEuh... C'est un test ?\n_\nSaad\nVa vite voir le BG
+    au fond du lab, une mission t'attends !"
   talkCallback:
     m_PersistentCalls:
       m_Calls: []
@@ -4528,7 +4528,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &985818385
 SpriteRenderer:
@@ -5027,9 +5027,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 071c7e202695a4494b28f6cea090bac2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  action: 0
+  action: 1
   talkIcon: {fileID: 0}
-  talkConfig: 
+  talkConfig: "Adrien M\nWow ! C'est hyper bien fait on s'y croirait !\n_\nAdrien
+    M\nY a m\xEAme la mati\xE8re et tout !\n_\nKim\nNan, \xE7a c'est moi..."
   talkCallback:
     m_PersistentCalls:
       m_Calls: []
@@ -5057,7 +5058,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &1083915699
 SpriteRenderer:
@@ -5097,7 +5098,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -4090495321107620800, guid: fa3054777cd4f4ef9a8f97d7cdac8bd1,
+  m_Sprite: {fileID: 5112856303203257992, guid: ebb96b5dd0bb74721ae909a6e298477e,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5348,7 +5349,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &1148857365
 SpriteRenderer:
@@ -5865,7 +5866,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &1221868785
 SpriteRenderer:
@@ -5905,7 +5906,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -4373584727929201220, guid: 0c3bf795c7557476ebae11ff19702eac,
+  m_Sprite: {fileID: -4153143332715596530, guid: 0c3bf795c7557476ebae11ff19702eac,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
@@ -6206,7 +6207,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   action: 1
   talkIcon: {fileID: 0}
-  talkConfig: "Yasmine\nMakers gonna make, does gonna do... and save the planet!\n-\nYasmine\nMerci
+  talkConfig: "Yasmine\nMakers gonna make, doers gonna do... and save the planet!\n-\nYasmine\nMerci
     pour ta bienveillance et ta po\xE9sie, Papa."
   talkCallback:
     m_PersistentCalls:
@@ -6235,7 +6236,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &1331013275
 SpriteRenderer:
@@ -6846,7 +6847,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &1506808972
 SpriteRenderer:
@@ -7055,7 +7056,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &1526682012
 SpriteRenderer:
@@ -7364,7 +7365,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   action: 1
   talkIcon: {fileID: 0}
-  talkConfig: "Gregory\nComment \xE7a tu as besoin d'aller au States pour \xE9tudier
+  talkConfig: "Gregory\nComment \xE7a tu as besoin d'aller aux States pour \xE9tudier
     des makers ?\n_\nKim\nC'est pour disrupter le business model legacy\n_\nGregory\nMmh...\n_\nKim\nEt
     sauver le monde !\n_\nGregory\nBanco !"
   talkCallback:
@@ -7405,7 +7406,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &1617066941
 SpriteRenderer:
@@ -7677,7 +7678,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &1679902325
 SpriteRenderer:
@@ -8239,9 +8240,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 071c7e202695a4494b28f6cea090bac2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  action: 0
+  action: 1
   talkIcon: {fileID: 0}
-  talkConfig: 
+  talkConfig: "Adrien C\nVous trouvez pas que \xE7a sent le croissant ?\n_\nAdrien
+    C\nEt sinon, le soleil il est o\xF9 ?"
   talkCallback:
     m_PersistentCalls:
       m_Calls: []
@@ -8269,7 +8271,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &1819242564
 SpriteRenderer:
@@ -8309,10 +8311,10 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -8938038406874511489, guid: 8b48d096f522149e3b1bdc8324ce1100,
+  m_Sprite: {fileID: -3076850755508193274, guid: 8b48d096f522149e3b1bdc8324ce1100,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.64, y: 0.64}
@@ -8915,6 +8917,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   followDelta: {x: 0, y: -8.45, z: 29}
+  followSpeed: 1.5
   minX: 0.5
   maxX: 18
 --- !u!1 &1987548765
@@ -8994,7 +8997,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.64, z: 0.2}
+  m_Size: {x: 0.16, y: 0.64, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &1987548769
 SpriteRenderer:

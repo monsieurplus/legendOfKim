@@ -22,6 +22,9 @@ public class SpaceKimController : MonoBehaviour
 
     public GameObject projectilePrefab;
 
+    public GameObject rulesLabel;
+    private int shotNumber = 0;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -58,6 +61,10 @@ public class SpaceKimController : MonoBehaviour
             }
 
             if (Input.GetKeyDown("space")) {
+                shotNumber++;
+                if (shotNumber > 3)
+                    rulesLabel.SetActive(false);
+
                 GameObject proj = GameObject.Instantiate(projectilePrefab);
                 proj.transform.position = transform.position - new Vector3(0f, 0f, 0.1f);
                 PlayRandomDesign();

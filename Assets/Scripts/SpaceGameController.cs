@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class SpaceGameController : MonoBehaviour
 {
@@ -20,6 +21,8 @@ public class SpaceGameController : MonoBehaviour
     public bool showIntro = true;
     public IntroScreenController intro;
     private UnityEvent introCallback;
+
+    public string nextSceneName;
 
     // Start is called before the first frame update
     void Start()
@@ -51,5 +54,9 @@ public class SpaceGameController : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void NextLevel() {
+        SceneManager.LoadScene(nextSceneName);
     }
 }
