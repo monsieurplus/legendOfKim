@@ -21,7 +21,7 @@ public class NpcController : MonoBehaviour
     public NpcAction action;
 
     public GameObject talkIcon;
-    [TextArea(2,10)]
+    [TextArea(2,50)]
     public string talkConfig;
     public UnityEvent talkCallback;
 
@@ -176,7 +176,7 @@ public class NpcController : MonoBehaviour
         massageProgressValue += Random.Range(massagePowerRandomMin, massagePowerRandomMax);
     }
 
-    private void EndMassage() {
+    public void EndMassage() {
         massaging = false;
         massagingStart = -1f;
         GetGame().EndMassage();
