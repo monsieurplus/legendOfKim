@@ -59,6 +59,10 @@ public class KimController : MonoBehaviour
                 GetComponent<Rigidbody>().AddForce(0f, 10f, 0f);
             }
         }
+        else {
+            movingDirection = 0f;
+            moving = false;
+        }
 
         UpdatePosition();
         UpdateAnimator();

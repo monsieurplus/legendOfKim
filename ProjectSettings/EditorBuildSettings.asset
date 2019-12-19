@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Toulouse.unity
     guid: 5b04d9740e62748a5824755974bf2859
   - enabled: 1
+    path: Assets/Scenes/NightClub.unity
+    guid: 80c86a46b887b4ce18c163dc9d1983dd
+  - enabled: 1
     path: Assets/Scenes/iLab.unity
     guid: f03192b2cb9964098ab51fcd2d094d1b
   - enabled: 1

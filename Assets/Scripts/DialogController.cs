@@ -115,7 +115,6 @@ public class DialogController : MonoBehaviour
 
         dialogsLength = configs.Length;
         for (int i=0; i < configs.Length; i++) {
-            Debug.Log(configs[i]);
             configParts = configs[i].Trim(trimChars).Split(configPartSep);
             
             if (configParts.Length == 1) {
