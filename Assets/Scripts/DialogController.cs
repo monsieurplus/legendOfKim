@@ -54,7 +54,7 @@ public class DialogController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey("space") && spaceReleased)
+        if (Input.GetKeyDown("space") && spaceReleased)
         {
             spaceReleased = false;
 
@@ -72,7 +72,7 @@ public class DialogController : MonoBehaviour
             }
         }
 
-        if (!Input.GetKey("space"))
+        if (!Input.GetKeyDown("space"))
         {
             spaceReleased = true;
 
@@ -115,6 +115,7 @@ public class DialogController : MonoBehaviour
 
         dialogsLength = configs.Length;
         for (int i=0; i < configs.Length; i++) {
+            Debug.Log(configs[i]);
             configParts = configs[i].Trim(trimChars).Split(configPartSep);
             
             if (configParts.Length == 1) {

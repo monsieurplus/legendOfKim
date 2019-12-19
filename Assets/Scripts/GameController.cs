@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
@@ -20,6 +21,8 @@ public class GameController : MonoBehaviour
     public bool showIntro = true;
     public IntroScreenController intro;
     private UnityEvent introCallback;
+
+    public string nextSceneName;
 
     // Start is called before the first frame update
     void Start()
@@ -83,5 +86,9 @@ public class GameController : MonoBehaviour
     {
         yield return new WaitForSeconds(waitTime);
         player.controllable = true;   
+    }
+
+    public void NextLevel() {
+        SceneManager.LoadScene(nextSceneName);
     }
 }

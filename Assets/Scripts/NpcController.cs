@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-
 public class NpcController : MonoBehaviour
 {
     // GameController reference
@@ -57,11 +56,13 @@ public class NpcController : MonoBehaviour
     }
 
     private void OnTriggerEnter(Collider other) {
-        reachable = true;
+        if (other.gameObject.name == "Kim")
+            reachable = true;
     }
 
     private void OnTriggerExit(Collider other) {
-        reachable = false;
+        if (other.gameObject.name == "Kim")
+            reachable = false;
     }
 
     // Update is called once per frame
