@@ -4299,7 +4299,7 @@ MonoBehaviour:
   m_text: 'Level 1
 
 
-    Mystery in the iLab'
+    Leaving home'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e6e62e7ab25034921ba5edf032c6714b, type: 2}
   m_sharedMaterial: {fileID: 1887521822925504425, guid: e6e62e7ab25034921ba5edf032c6714b,
@@ -4369,12 +4369,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: -14.0560255, w: 0}
   m_textInfo:
     textComponent: {fileID: 962519043}
-    characterCount: 28
+    characterCount: 21
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 6
+    spaceCount: 4
+    wordCount: 4
     linkCount: 0
-    lineCount: 4
+    lineCount: 3
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -6474,9 +6474,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 4af3ae74bcd314a0f95de6c572e2e679, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 8ac793b3b41bc4e2fae23d3abec5bcc1, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0
+  m_Volume: 1
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -6623,7 +6623,7 @@ MonoBehaviour:
   music: {fileID: 1922446251}
   showIntro: 1
   intro: {fileID: 2105446883}
-  nextSceneName: iLab
+  nextSceneName: NightClub
 --- !u!1 &1943695459
 GameObject:
   m_ObjectHideFlags: 0
@@ -7592,7 +7592,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56b32f9d60623491ba141b9f2cdf81ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  showDuration: 0.1
+  showDuration: 2
   hideDuration: 1
   hideStep: 10
 --- !u!1 &2116218520

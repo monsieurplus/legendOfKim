@@ -7,6 +7,7 @@ public class SplashController : MonoBehaviour
 {
     public GameObject startMessage;
     private bool startEnabled = false;
+    public string startSceneName;
 
     // Start is called before the first frame update
     void Start()
@@ -18,7 +19,7 @@ public class SplashController : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyDown("space") && startEnabled) {
-            SceneManager.LoadScene("Level01");
+            SceneManager.LoadScene(startSceneName);
         }
     }
 
